@@ -1,0 +1,1141 @@
+[
+    {
+        "book_name": "AngularJS, JavaScript, and jQuery All in One",
+        "edition": "1st Edition",
+        "authors": [
+            "Brad Dayley",
+            " Brendan Dayley"
+        ],
+        "ISPN": "978-0672337420",
+        "pages_count": 832,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/AngularJS, JavaScript, and jQuery All in One 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIUlcwdEhsMDFXLUU"
+    },
+    {
+        "book_name": "Android Studio Development Essentials",
+        "edition": "6th Edition",
+        "authors": [
+            "Neil Smyth"
+        ],
+        "ISPN": "1519722087",
+        "pages_count": 710,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Android Studio Development Essentials 6th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQISEg5MlFRalRQX28"
+    },
+    {
+        "book_name": "Practical Reverse Engineering x86, x64",
+        "edition": "1st Edition",
+        "authors": [
+            "Bruce Dang",
+            "Alexandre Gazet",
+            "Elias Bachaalany",
+            "Sebastien Josse"
+        ],
+        "ISPN": "978-1118787311",
+        "pages_count": 384,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Practical Reverse Engineering x86, x64 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIc0xyYjJkVEVjeEU"
+    },
+    {
+        "book_name": "C++ Programming Program Design Including Data Structures",
+        "edition": "7th Edition",
+        "authors": [
+            "D S Malik"
+        ],
+        "ISPN": "9780619277512",
+        "pages_count": 1680,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/5HPulAs6RHiL7AtejV6aMoK9qIe4Ce5I.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIaFItVzVQODBPZlU"
+    },
+    {
+        "book_name": "Networking All-in-One For Dummies",
+        "edition": "6th Edition",
+        "authors": [
+            "Doug Lowe"
+        ],
+        "ISPN": "1119154723",
+        "pages_count": 912,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Networking All-in-One For Dummies 6th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVGhSTVRkYkhqczA"
+    },
+    {
+        "book_name": "Unity Game Development in 24 Hours",
+        "edition": "2nd Edition",
+        "authors": [
+            "Ben Tristem",
+            "Mike Geig"
+        ],
+        "ISPN": "0672337517",
+        "pages_count": 432,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Unity Game Development in 24 Hours 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIbzV6QnE3azlkenc"
+    },
+    {
+        "book_name": "Android Application Development Cookbook",
+        "edition": "2nd Edition",
+        "authors": [
+            "Rick Boyer",
+            "Kyle Mew"
+        ],
+        "ISPN": "9781785886195",
+        "pages_count": 428,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Android Application Development Cookbook 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIUEc4LXRteTZxcVE"
+    },
+    {
+        "book_name": "Core Java for the Impatient",
+        "edition": "1st Edition",
+        "authors": [
+            "Cay S Horstmann"
+        ],
+        "ISPN": "9780321996329",
+        "pages_count": 1510,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Core Java for the Impatient 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQILTJiSmkzZHVRbnc"
+    },
+    {
+        "book_name": "How to Use Objects - Code and Concepts",
+        "edition": "1st Edition",
+        "authors": [
+            "Holger Gast"
+        ],
+        "ISPN": "9780321995544",
+        "pages_count": 1363,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/How to Use Objects - Code and Concepts 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIX1k5ZHp3ekl1V0k"
+    },
+    {
+        "book_name": "Design Patterns : Elements of Reusable Object-Oriented Software",
+        "edition": "1st Edition",
+        "authors": [
+            "Erich Gamma"
+        ],
+        "ISPN": "9780201633610",
+        "pages_count": 342,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/sdasd.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIaVJzVlNpOTdQQTg"
+    },
+    {
+        "book_name": "JavaScript JSON Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Ray Rischpater"
+        ],
+        "ISPN": "978-1-78528-435-9",
+        "pages_count": 192,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/JavaScript JSON Cookbook 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIa1VfQWhxc0lUSE0"
+    },
+    {
+        "book_name": "JavaScript Application Design A Build First Approach",
+        "edition": "1st Edition",
+        "authors": [
+            "Nicolas Bevacqua"
+        ],
+        "ISPN": "978-1617291951",
+        "pages_count": 344,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/JavaScript Application Design A Build First Approach 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIcFo0b3FqQTNxa0U"
+    },
+    {
+        "book_name": "MATLAB For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Jim Sizemore",
+            "John Paul Mueller"
+        ],
+        "ISPN": "9781118820100",
+        "pages_count": 436,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/MATLAB For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQILUlCOGRVZU4zbEk"
+    },
+    {
+        "book_name": "Python High Performance Programming 2013",
+        "edition": "1st Edition",
+        "authors": [
+            "Gabriele Lanaro"
+        ],
+        "ISPN": "9781783288458",
+        "pages_count": 108,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Python High Performance Programming 2013 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITnhlX195Zy15U1U"
+    },
+    {
+        "book_name": "Android Programming Pushing the Limits",
+        "edition": "1st Edition",
+        "authors": [
+            "Erik Hellman"
+        ],
+        "ISPN": "1118717376",
+        "pages_count": 432,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Android Programming Pushing the Limits 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMjdhODFZZG53T3c"
+    },
+    {
+        "book_name": "Android Programming: The Big Nerd Ranch Guide",
+        "edition": "1st Edition",
+        "authors": [
+            "Bill Phillips",
+            "Brian Hardy"
+        ],
+        "ISPN": "9780321804334",
+        "pages_count": 625,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/41nouthfOxL.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQISldDVEs1bTZTQ0k"
+    },
+    {
+        "book_name": "Mastering Microsoft Exchange Server 2013",
+        "edition": "1st Edition",
+        "authors": [
+            "David Elfassy"
+        ],
+        "ISPN": "1118556836",
+        "pages_count": 818,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Mastering Microsoft Exchange Server 2013 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVHJyZGJ3R0d1UDg"
+    },
+    {
+        "book_name": "Python Hacking Essentials (2015)",
+        "edition": "1st Edition",
+        "authors": [
+            "Earnest Wish"
+        ],
+        "ISPN": "978-1511797566",
+        "pages_count": 71,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Python Hacking Essentials (2015) 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIX2RiZ1lXdmtvNFk"
+    },
+    {
+        "book_name": "Learning Python Network Programming",
+        "edition": "1st Edition",
+        "authors": [
+            "M O Faruque Sarker",
+            "Sam Washington"
+        ],
+        "ISPN": "978-1784396008",
+        "pages_count": 320,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning Python Network Programming 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIWlN6SXhiMkRQeXM"
+    },
+    {
+        "book_name": "Introduction to Computation and Programming Using Python",
+        "edition": "1st Edition",
+        "authors": [
+            "John V Guttag"
+        ],
+        "ISPN": "0262525003",
+        "pages_count": 315,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Introduction to Computation and Programming Using Python 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITlRXREUwcDZjRkU"
+    },
+    {
+        "book_name": "e-Design - Computer-Aided Engineering Design",
+        "edition": "1st Edition",
+        "authors": [
+            "Kuang-Hua Chang"
+        ],
+        "ISPN": "9780128054253",
+        "pages_count": 1000,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/e-Design - Computer-Aided Engineering Design 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQINUZtSElNZGFhVnM"
+    },
+    {
+        "book_name": "Hack-X-Crypt",
+        "edition": "1st Edition",
+        "authors": [
+            "UJJWAL SAHAY"
+        ],
+        "ISPN": "B00V8X78DK",
+        "pages_count": 105,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Hack-X-Crypt 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIamxkUjVUWVpZNVE"
+    },
+    {
+        "book_name": "WordPress For Dummies",
+        "edition": "6th Edition",
+        "authors": [
+            "Lisa Sabin-Wilson"
+        ],
+        "ISPN": "1118791614",
+        "pages_count": 431,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/WordPress For Dummies 6th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIUEVXVkZTNU41cVE"
+    },
+    {
+        "book_name": "WordPress For Dummies",
+        "edition": "7th Edition",
+        "authors": [
+            "Lisa Sabin-Wilson"
+        ],
+        "ISPN": "9781118791615",
+        "pages_count": 340,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/WordPress For Dummies 7th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIRnF4aGVqRnFxMkk"
+    },
+    {
+        "book_name": "WordPress All-in-One For Dummies",
+        "edition": "2nd Edition",
+        "authors": [
+            "Lisa Sabin-Wilson"
+        ],
+        "ISPN": "1118383346",
+        "pages_count": 1000,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/WordPress All-in-One For Dummies 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIZ3N2TE5sbEFLRVU"
+    },
+    {
+        "book_name": "Gray Hat Hacking - The Ethical Hacker's Handbook",
+        "edition": "4th Edition",
+        "authors": [
+            "Daniel Regalado",
+            "Shon Harris",
+            "Allen Harper",
+            "Chris Eagle",
+            " Jonathan Ness",
+            "Branko Spasojevic",
+            "Ryan Linn"
+        ],
+        "ISPN": "B00QSEJNIM",
+        "pages_count": 904,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Gray Hat Hacking - The Ethical Hacker's Handbook 4th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQINUQwMGdPanktdzQ"
+    },
+    {
+        "book_name": "How to Attack and Defend Your Website",
+        "edition": "1st Edition",
+        "authors": [
+            "Henry Dalziel"
+        ],
+        "ISPN": "978-0128027325",
+        "pages_count": 77,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/How to Attack and Defend Your Website 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQINTM1OV9CaFVQM3c"
+    },
+    {
+        "book_name": "Networking - Self Teaching Guide",
+        "edition": "1st Edition",
+        "authors": [
+            "James Don Edwards",
+            "Richard Bramante"
+        ],
+        "ISPN": "9780470402382",
+        "pages_count": 867,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Networking - Self Teaching Guide 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOFNHcVZxM3FHcWs"
+    },
+    {
+        "book_name": "HTML And CSS - Design And Build Websites",
+        "edition": "1st Edition",
+        "authors": [
+            "Jon Duckett"
+        ],
+        "ISPN": "9781118008188",
+        "pages_count": 512,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/HTML And CSS - Design And Build Websites 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQISklJWW1XcENvOWM"
+    },
+    {
+        "book_name": "Foundations for Analytics with Python",
+        "edition": "1st Edition",
+        "authors": [
+            "Clinton W Brownley"
+        ],
+        "ISPN": "9781491922538",
+        "pages_count": 300,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Foundations for Analytics with Python 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIaExjU29zeEJWc00"
+    },
+    {
+        "book_name": "Advanced Persistent Threat Hacking",
+        "edition": "1st Edition",
+        "authors": [
+            "Tyler Wrightson"
+        ],
+        "ISPN": "9780071828369",
+        "pages_count": 434,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Advanced Persistent Threat Hacking 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQISEJLUkFhbU9xQm8"
+    },
+    {
+        "book_name": "ZBrush Digital Sculpting Human Anatomy",
+        "edition": "1st Edition",
+        "authors": [
+            "Scott Spencer"
+        ],
+        "ISPN": "9780470450260",
+        "pages_count": 418,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/ZBrush Digital Sculpting Human Anatomy 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIQzNfbFNNN0NTeGc"
+    },
+    {
+        "book_name": "Rails, Angular, Postgres, and Bootstrap",
+        "edition": "1st Edition",
+        "authors": [
+            "David Bryant"
+        ],
+        "ISPN": "9781680501261",
+        "pages_count": 240,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Rails, Angular, Postgres, and Bootstrap 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOVRfNDd3WW1Na0E"
+    },
+    {
+        "book_name": "Ethical Hacking and Penetration Testing Guide",
+        "edition": "1st Edition",
+        "authors": [
+            "Rafay Baloch"
+        ],
+        "ISPN": "9781482231618",
+        "pages_count": 523,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Ethical Hacking and Penetration Testing Guide 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIZlNwOGRrOTBFdVU"
+    },
+    {
+        "book_name": "Raspberry Pi Home Automation with Arduino 2015",
+        "edition": "2nd Edition",
+        "authors": [
+            "Andrew K Dennis"
+        ],
+        "ISPN": "978-1-78439-920-7",
+        "pages_count": 148,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Raspberry Pi Home Automation with Arduino 2015 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQId3BNMFBmT2tXWHc"
+    },
+    {
+        "book_name": "Raspberry Pi Home Automation with Arduino",
+        "edition": "1st Edition",
+        "authors": [
+            "Andrew K Dennis"
+        ],
+        "ISPN": "978-1-84969-586-2",
+        "pages_count": 176,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Raspberry Pi Home Automation with Arduino 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIWjltZEN2NXlYSHM"
+    },
+    {
+        "book_name": "SQL For Dummies",
+        "edition": "8th Edition",
+        "authors": [
+            "Allen G Taylor"
+        ],
+        "ISPN": "9780764504150",
+        "pages_count": 394,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/SQL For Dummies 8th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIazlVbTkydUhvOTA"
+    },
+    {
+        "book_name": "Learning to Program the Object-Oriented Way with C#",
+        "edition": "1st Edition",
+        "authors": [
+            "Vinny Cahill",
+            "Donal Lafferty"
+        ],
+        "ISPN": "9781852336028",
+        "pages_count": 626,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/learning-to-program-the-object-oriented-way-with-c-1st-edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVVdycXg1TGJDS0k"
+    },
+    {
+        "book_name": "The Ubuntu Book",
+        "edition": "1st Edition",
+        "authors": [
+            "Imagine Publishing"
+        ],
+        "ISPN": "1785462849",
+        "pages_count": 164,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/The Ubuntu Book 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIb0hHb1JRMDNZMjQ"
+    },
+    {
+        "book_name": "PHP Web Services: APIs for the Modern Web",
+        "edition": "2nd Edition",
+        "authors": [
+            "Lorna Jane Mitchell"
+        ],
+        "ISPN": "B01A9GD0JC",
+        "pages_count": 180,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/yNMfeEWz1D.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIYm9CNDBkZzFQN0k"
+    },
+    {
+        "book_name": "Arduino for Beginners Essential Skills Every Maker Needs",
+        "edition": "1st Edition",
+        "authors": [
+            "John Baichtal"
+        ],
+        "ISPN": "9780789748836",
+        "pages_count": 400,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Arduino for Beginners Essential Skills Every Maker Needs 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIQUx1Zzc4cDVZeUE"
+    },
+    {
+        "book_name": "Advanced Wireless LAN",
+        "edition": "1st Edition",
+        "authors": [
+            "Matt Neuburg"
+        ],
+        "ISPN": "9789535106456",
+        "pages_count": 146,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Advanced Wireless LAN 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIT1cxcGRGbHpEdU0"
+    },
+    {
+        "book_name": "When Computers Can Think - The Artificial Intelligence Singularity",
+        "edition": "1st Edition",
+        "authors": [
+            "Anthony Berglas"
+        ],
+        "ISPN": "978-1502384188",
+        "pages_count": 434,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/When Computers Can Think - The Artificial Intelligence Singularity 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIRVlMbC1rNG9uSnc"
+    },
+    {
+        "book_name": "Linux Bible",
+        "edition": "9th Edition",
+        "authors": [
+            "Chris Negus"
+        ],
+        "ISPN": "9780764589744",
+        "pages_count": 914,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Linux Bible 9th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIUmpRcWVmMnRpOFE"
+    },
+    {
+        "book_name": "Beginning SQL Server for Developers",
+        "edition": "4th Edition",
+        "authors": [
+            "Robin Dewson"
+        ],
+        "ISPN": "978-1484202814",
+        "pages_count": 684,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning SQL Server for Developers 4th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVE5KUjYzbElxcXM"
+    },
+    {
+        "book_name": "Adobe Photoshop CS6 Bible",
+        "edition": "1st Edition",
+        "authors": [
+            "Brad Dayley",
+            "DaNae Dayley"
+        ],
+        "ISPN": "1118123883",
+        "pages_count": 1104,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Adobe Photoshop CS6 Bible 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQINWtPcGRPX1d6dlE"
+    },
+    {
+        "book_name": "Brute Force - Cracking the Data Encryption Standard",
+        "edition": "1st Edition",
+        "authors": [
+            "Matt Curtin"
+        ],
+        "ISPN": "9780387201092",
+        "pages_count": 283,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Brute Force - Cracking the Data Encryption Standard 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIV2gzSW9NNUFOcnc"
+    },
+    {
+        "book_name": "Data Wrangling with Python: Tips and Tools to Make Your Life Easier",
+        "edition": "1st Edition",
+        "authors": [
+            "Jacqueline Kazil",
+            "Katharine Jarmul"
+        ],
+        "ISPN": "978-1491948811",
+        "pages_count": 508,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/51FucQEH4zL._SX379_BO1,204,203,200_.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIYzJ1UmlKeTlKUDg"
+    },
+    {
+        "book_name": "Neural Network Programming with Java (2016)",
+        "edition": "1st Edition",
+        "authors": [
+            "Alan Souza",
+            "F\u00e1bio Soares"
+        ],
+        "ISPN": "9781785880902",
+        "pages_count": 246,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Neural Network Programming with Java (2016) 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIQ2xDVldac1lyb1U"
+    },
+    {
+        "book_name": "Professional Microsoft SQL Server 2014 Integration Services",
+        "edition": "1st Edition",
+        "authors": [
+            "Brian Knight"
+        ],
+        "ISPN": "9781118850879",
+        "pages_count": 915,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Professional Microsoft SQL Server 2014 Integration Services 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIdWlvd1ZxbUFjOUU"
+    },
+    {
+        "book_name": "Hacking Web Intelligence",
+        "edition": "1st Edition",
+        "authors": [
+            "Sudhanshu Chauhan",
+            "Nutan Kumar Panda"
+        ],
+        "ISPN": "9780128018675",
+        "pages_count": 300,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Hacking Web Intelligence 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMWV1WTlIWGZ5WVE"
+    },
+    {
+        "book_name": "Operating Systems - Internals and Design Principles",
+        "edition": "8th Edition",
+        "authors": [
+            "William Stallings"
+        ],
+        "ISPN": "978-0133805918",
+        "pages_count": 800,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Operating Systems - Internals and Design Principles 8th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITEotZ0FGQmNfNmM"
+    },
+    {
+        "book_name": "Operating Systems - Internals and Design Principles",
+        "edition": "7th Edition",
+        "authors": [
+            "William Stallings"
+        ],
+        "ISPN": "978-0132309981",
+        "pages_count": 820,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Operating Systems - Internals and Design Principles 7th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIaWpXVFJ4LUxtdnM"
+    },
+    {
+        "book_name": "Learning JavaScript: Add Sparkle and Life to Your Web Pages",
+        "edition": "2nd Edition",
+        "authors": [
+            "Shelley Powers"
+        ],
+        "ISPN": "9780596554378",
+        "pages_count": 398,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/11.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMEFuSXc4NW9PeE0"
+    },
+    {
+        "book_name": "Excel Data Analysis For Dummies",
+        "edition": "3rd Edition",
+        "authors": [
+            "Stephen L Nelson",
+            "Elizabeth C Nelson"
+        ],
+        "ISPN": "9780935717402",
+        "pages_count": 384,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Excel Data Analysis For Dummies 3rd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIX2FrM1R5VGIzOWc"
+    },
+    {
+        "book_name": "Unity 5 From Zero to Proficiency (Foundations)",
+        "edition": "1st Edition",
+        "authors": [
+            "Patrick Felicia"
+        ],
+        "ISPN": "N\/A 000",
+        "pages_count": 241,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Unity 5 From Zero to Proficiency (Foundations) 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIdWYxV3ZsdlJ5V1E"
+    },
+    {
+        "book_name": "A Guide to MATLAB - for Beginners and Experienced Users",
+        "edition": "1st Edition",
+        "authors": [
+            "Brian R Hunt",
+            "Ronald L Lipsman",
+            " J Rosenberg"
+        ],
+        "ISPN": "9780521803809",
+        "pages_count": 346,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/A Guide to MATLAB - for Beginners and Experienced Users 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVlFWblVTckcyc3M"
+    },
+    {
+        "book_name": "Mastering Python Regular Expressions",
+        "edition": "1st Edition",
+        "authors": [
+            "Lopez Felix",
+            "Romero Victor"
+        ],
+        "ISPN": "9781783283156",
+        "pages_count": 110,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Mastering Python Regular Expressions  1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIcFRJRnVMY0E1MVE"
+    },
+    {
+        "book_name": "Adobe InDesign CC Digital Classroom",
+        "edition": "1st Edition",
+        "authors": [
+            "Christopher Smith",
+            "AGI Creative Team"
+        ],
+        "ISPN": "1118639642",
+        "pages_count": 514,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Adobe InDesign CC Digital Classroom 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIaFZaVnhyQk5md3c"
+    },
+    {
+        "book_name": "Building E-Commerce Solutions with WooCommerce",
+        "edition": "2nd Edition",
+        "authors": [
+            "Robbert Ravensbergen"
+        ],
+        "ISPN": "9780738412641",
+        "pages_count": 191,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Building E-Commerce Solutions with WooCommerce 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQINmFjcmJOZHJldHM"
+    },
+    {
+        "book_name": "Web Application Design and Implementation",
+        "edition": "1st Edition",
+        "authors": [
+            "S Gabarro",
+            "Steven A Gabarro"
+        ],
+        "ISPN": "9780471773917",
+        "pages_count": 295,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Web Application Design and Implementation 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIRmVmMFBTMEJVZVE"
+    },
+    {
+        "book_name": "Visual Basic Crash Course",
+        "edition": "1st Edition",
+        "authors": [
+            "Eprogramy"
+        ],
+        "ISPN": "B014RDZQH2",
+        "pages_count": 192,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Visual Basic Crash Course 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIYlRtcnJKWUI2Rnc"
+    },
+    {
+        "book_name": "Windows Registry Troubleshooting 2015",
+        "edition": "1st Edition",
+        "authors": [
+            "Mike Halsey",
+            "Andrew Bettany"
+        ],
+        "ISPN": "978-1484209936",
+        "pages_count": 124,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Windows Registry Troubleshooting 2015 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIenEtU1RhcmdEWFk"
+    },
+    {
+        "book_name": "CEH Certified Ethical Hacker Study Guide",
+        "edition": "1st Edition",
+        "authors": [
+            "Kimberly Graves"
+        ],
+        "ISPN": "9780470525203",
+        "pages_count": 744,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/CEH Certified Ethical Hacker Study Guide 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIWWZCNVRZdVRLMVU"
+    },
+    {
+        "book_name": "Linux All-in-One For Dummies",
+        "edition": "5th Edition",
+        "authors": [
+            "Naba Barkakati"
+        ],
+        "ISPN": "9780471752622",
+        "pages_count": 579,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Linux All-in-One For Dummies 5th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOFJVWUFINVBQWUk"
+    },
+    {
+        "book_name": "Beginning Programming with Java For Dummies",
+        "edition": "3rd Edition",
+        "authors": [
+            "Barry Burd"
+        ],
+        "ISPN": "978-0470371749",
+        "pages_count": 459,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning Programming with Java For Dummies 3rd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMmw0eUthU3BkMmM"
+    },
+    {
+        "book_name": "C++ Primer Plus",
+        "edition": "6th Edition",
+        "authors": [
+            "Stephen Prata"
+        ],
+        "ISPN": "0321776402",
+        "pages_count": 1438,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/6.jpeg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMGJyUV9BWmdtMlk"
+    },
+    {
+        "book_name": "Building a Home Security System with Arduino",
+        "edition": "1st Edition",
+        "authors": [
+            "Jorge R Castro"
+        ],
+        "ISPN": "",
+        "pages_count": 132,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Building a Home Security System with Arduino 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIYVNtM0tuSnozN1E"
+    },
+    {
+        "book_name": "Programming Arduino Getting Started With Sketches",
+        "edition": "1st Edition",
+        "authors": [
+            "Simon Monk"
+        ],
+        "ISPN": "9780071784221",
+        "pages_count": 177,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Programming Arduino Getting Started With Sketches 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVkFTOUZ6NGZGdEE"
+    },
+    {
+        "book_name": "Data Structures and Algorithms with JavaScript",
+        "edition": "1st Edition",
+        "authors": [
+            "Michael McMillan"
+        ],
+        "ISPN": "978-1-4493-6492-2",
+        "pages_count": 250,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Data Structures and Algorithms with JavaScript 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIcGRsdlgzNHJVMHM"
+    },
+    {
+        "book_name": "Microsoft Project 2016 Step by Step (2016)",
+        "edition": "1st Edition",
+        "authors": [
+            "Carl Chatfield"
+        ],
+        "ISPN": "0735698740",
+        "pages_count": 576,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Microsoft Project 2016 Step by Step (2016) 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIY3Y4dDE5b0FWM1U"
+    },
+    {
+        "book_name": "Excel Macros For Dummies (2015)",
+        "edition": "1st Edition",
+        "authors": [
+            "John Walkenbach"
+        ],
+        "ISPN": "9781118490372",
+        "pages_count": 288,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Excel Macros For Dummies (2015) 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIX3p2VVpnRng5eHM"
+    },
+    {
+        "book_name": "Excel VBA Programming For Dummies",
+        "edition": "4th Edition",
+        "authors": [
+            "John Walkenbach"
+        ],
+        "ISPN": "9781118490372",
+        "pages_count": 408,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Excel VBA Programming For Dummies 4th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIeXdGclgxSEhxaXM"
+    },
+    {
+        "book_name": "Neuro-linguistic Programming For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Romilla Ready",
+            "Kate Burton"
+        ],
+        "ISPN": "978-0-470-66609-8",
+        "pages_count": 416,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Neuro-linguistic Programming For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIeXB1eGJjaU9xbDA"
+    },
+    {
+        "book_name": "Head First HTML and CSS",
+        "edition": "2nd Edition",
+        "authors": [
+            "Eric Freeman",
+            "Elisabeth Robson"
+        ],
+        "ISPN": "9780596159900",
+        "pages_count": 764,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Head First HTML and CSS 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITEhTU1hMYzVVeDA"
+    },
+    {
+        "book_name": "Beginning ASP.NET for Visual Studio 2015",
+        "edition": "1st Edition",
+        "authors": [
+            "William Penberthy"
+        ],
+        "ISPN": "1119077427",
+        "pages_count": 792,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning ASP.NET for Visual Studio 2015 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMzY0Sk5QTXVCSjA"
+    },
+    {
+        "book_name": "Arduino Projects For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Brock Craft"
+        ],
+        "ISPN": "978-1-118-55147-9",
+        "pages_count": 319,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Arduino Projects For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOWJDQkhEbnlxdjg"
+    },
+    {
+        "book_name": "Meditation For Dummies",
+        "edition": "4th Edition",
+        "authors": [
+            "Stephan Bodian"
+        ],
+        "ISPN": "9781118291443",
+        "pages_count": 408,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Meditation For Dummies 4th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B81TNkQfgbpENEx4UG92NmJYNlU"
+    },
+    {
+        "book_name": "Business Plans Kit For Dummies 2016",
+        "edition": "1st Edition",
+        "authors": [
+            "Steven D Peterson",
+            "Peter E Jaret",
+            "Barbara Findlay Schenck"
+        ],
+        "ISPN": "1119245494",
+        "pages_count": 408,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Business Plans Kit For Dummies 2016 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIWVF5dDVkb05kb2c"
+    },
+    {
+        "book_name": "How Washington Actually Works For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Greg Rushford"
+        ],
+        "ISPN": "978-1118312957",
+        "pages_count": 128,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/How Washington Actually Works For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIZXk5aHVxNG5pQVE"
+    },
+    {
+        "book_name": "Hacking Wireless Networks For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Kevin Beaver",
+            "Peter Davis",
+            "Devin Akin"
+        ],
+        "ISPN": "9780764597305",
+        "pages_count": 384,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Hacking Wireless Networks For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIQVZkUUdrREw3aEk"
+    },
+    {
+        "book_name": "Chinese Cooking For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Martin Yan"
+        ],
+        "ISPN": "9781118069295",
+        "pages_count": 360,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Chinese Cooking For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQILXdneFFzVExfM1k"
+    },
+    {
+        "book_name": "AutoCAD For Dummies",
+        "edition": "17th Edition",
+        "authors": [
+            "Bill Fane"
+        ],
+        "ISPN": "1119255791",
+        "pages_count": 544,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/AutoCAD For Dummies 17th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIY3Q1bUZzTlFjc1E"
+    },
+    {
+        "book_name": "Kindle Fire HDX For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Nancy Muir"
+        ],
+        "ISPN": "9781118772652",
+        "pages_count": 236,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Kindle Fire HDX For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVFc5VTlGR2FBXzA"
+    },
+    {
+        "book_name": "Macs For Dummies",
+        "edition": "12th Edition",
+        "authors": [
+            "Edward C Baig"
+        ],
+        "ISPN": "9780935714722",
+        "pages_count": 416,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Macs For Dummies 12th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIbVNmbVc3dzlHc28"
+    },
+    {
+        "book_name": "Networking For Dummies",
+        "edition": "11th Edition",
+        "authors": [
+            "Doug Lowe"
+        ],
+        "ISPN": "111925776X",
+        "pages_count": 456,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Networking For Dummies 11th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOTNmd2NfdnZaMW8"
+    },
+    {
+        "book_name": "Willpower For Dummies (2014)",
+        "edition": "1st Edition",
+        "authors": [
+            "Frank Ryan"
+        ],
+        "ISPN": "1118680030",
+        "pages_count": 216,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Willpower For Dummies (2014) 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIYnBvckpSWkxCeGc"
+    },
+    {
+        "book_name": "Canon EOS Rebel T6i:750D for Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Julie Adair King"
+        ],
+        "ISPN": "9781118335970",
+        "pages_count": 352,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/QzgDZfT3Ud.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIZXNnclMyS0huaEk"
+    },
+    {
+        "book_name": "Bitcoin For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Prypto"
+        ],
+        "ISPN": "9781119076131",
+        "pages_count": 211,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Bitcoin For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=18fn8CMc-7kkFU-F892V8GRkT1TyKXq_F"
+    },
+    {
+        "book_name": "C# 2010 All-in-One For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Stephen T Davis",
+            "Bill Sempf",
+            "Charles Sphar"
+        ],
+        "ISPN": "9780470563489",
+        "pages_count": 867,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/511qrjWlXHL._SX397_BO1,204,203,200_.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIY3E1VHRDcm5HOVE"
+    },
+    {
+        "book_name": "Office 365 For Dummies",
+        "edition": "2nd Edition",
+        "authors": [
+            "Rosemarie Withee",
+            "Ken Withee",
+            "Jennifer Reed"
+        ],
+        "ISPN": "1119265312",
+        "pages_count": 336,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Office 365 For Dummies 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxWVQ5bFZfTUE1OWM"
+    },
+    {
+        "book_name": "Machine Learning For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "John Paul Mueller",
+            "Luca Massaron"
+        ],
+        "ISPN": "1119245516",
+        "pages_count": 432,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Machine Learning For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIRlBoLXpVRWJsNU0"
+    },
+    {
+        "book_name": "BlackBerry Application Development For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Karl G Kowalski"
+        ],
+        "ISPN": "978-0470467114",
+        "pages_count": 412,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/BlackBerry Application Development For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIcTNYWEc1YzhIU28"
+    },
+    {
+        "book_name": "Excel Power Pivot and Power Query For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Michael Alexander"
+        ],
+        "ISPN": "111921064X",
+        "pages_count": 304,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Excel Power Pivot and Power Query For Dummies  1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxZzlJQVhYV21WMDA"
+    },
+    {
+        "book_name": "Google+ For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Jesse Stay"
+        ],
+        "ISPN": "9781118181294",
+        "pages_count": 144,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/LCxySf9tVQeDwJJJriFESDCtIz9933LO.jpeg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIbFpfTFRpYXR6Z2c"
+    },
+    {
+        "book_name": "Microsoft Project 2016 For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Martin Doucette"
+        ],
+        "ISPN": "9780764505171",
+        "pages_count": 360,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Microsoft Project 2016 For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIUmVwRnVTcG9QNTg"
+    },
+    {
+        "book_name": "Electronics For Kids For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Cathleen Shamieh"
+        ],
+        "ISPN": "9780470681787",
+        "pages_count": 352,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Electronics For Kids For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQILXAxN2Vfb2lrRUU"
+    },
+    {
+        "book_name": "NFC For Dummies (2016)",
+        "edition": "1st Edition",
+        "authors": [
+            "Robert R Sabella"
+        ],
+        "ISPN": "1119182921",
+        "pages_count": 324,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/NFC For Dummies (2016) 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQISEh3cjU2aDZKc3c"
+    },
+    {
+        "book_name": "Bookkeeping and Accounting All-in-One For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Jane E Kelly"
+        ],
+        "ISPN": "9781119026532",
+        "pages_count": 383,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Bookkeeping and Accounting All-in-One For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIaVNBbjFKMll6MzA"
+    },
+    {
+        "book_name": "Ayurveda For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Angela Murray"
+        ],
+        "ISPN": "9781118306703",
+        "pages_count": 282,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Ayurveda For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIbXR5SGJWVzA4aDA"
+    }
+]

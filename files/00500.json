@@ -1,0 +1,1150 @@
+[
+    {
+        "book_name": "Learning Mobile App Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Jakob Iversen",
+            "Michael Eierman"
+        ],
+        "ISPN": "978-0-321-94786-4",
+        "pages_count": 464,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning Mobile App Development 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITXFIZG90azZ2ZlU"
+    },
+    {
+        "book_name": "Learning Core Data for iOS",
+        "edition": "1st Edition",
+        "authors": [
+            "Tim Roadley"
+        ],
+        "ISPN": "978-0-321-90576-5",
+        "pages_count": 480,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning Core Data for iOS 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxRFF1dGNNa3BCV0U"
+    },
+    {
+        "book_name": "Learning iOS Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Maurice Sharp",
+            "Erica Sadun",
+            "Rod Strougo"
+        ],
+        "ISPN": "978-0-321-86296-9",
+        "pages_count": 592,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning iOS Development 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIc2R2ZDJob1dERGM"
+    },
+    {
+        "book_name": "Learn Sprite Kit for iOS Game Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Leland Long"
+        ],
+        "ISPN": "978-1-4302-6439-2",
+        "pages_count": 256,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learn Sprite Kit for iOS Game Development 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIQ2dMcVFxcV9reEk"
+    },
+    {
+        "book_name": "Migrating to Android for iOS Developers",
+        "edition": "1st Edition",
+        "authors": [
+            "Sean Liao"
+        ],
+        "ISPN": "978-1-484200-11-7",
+        "pages_count": 532,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Migrating to Android for iOS Developers 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITmhoODZ3bGNCLTQ"
+    },
+    {
+        "book_name": "Beginning iOS Programming For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Rajiv Ramnath"
+        ],
+        "ISPN": "978-1-118-79927-7",
+        "pages_count": 456,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning iOS Programming For Dummies 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIa2g1a2xMcTZld2c"
+    },
+    {
+        "book_name": "iOS Development with Xamarin Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Dimitris Tavlikos"
+        ],
+        "ISPN": "978-1-84969-892-4",
+        "pages_count": 386,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS Development with Xamarin Cookbook 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIZV9tck1WLTJrQ0U"
+    },
+    {
+        "book_name": "Application Development in iOS 7",
+        "edition": "1st Edition",
+        "authors": [
+            "Kyle Begeman"
+        ],
+        "ISPN": "978-1-78355-031-9",
+        "pages_count": 126,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Application Development in iOS 7 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIb3RXNEpKcDVFUWs"
+    },
+    {
+        "book_name": "Learning Nagios 4",
+        "edition": "1st Edition",
+        "authors": [
+            "Wojciech Kocjan"
+        ],
+        "ISPN": "978-1-78328-864-9",
+        "pages_count": 400,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning Nagios 4 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIWWhRVlowbmdnVWM"
+    },
+    {
+        "book_name": "Learning Cocoa with Objective-C",
+        "edition": "4th Edition",
+        "authors": [
+            "Paris Buttfield-Addison",
+            " Jonathon Manning",
+            "Tim Nugent"
+        ],
+        "ISPN": "978-1-49190-139-7",
+        "pages_count": 388,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning Cocoa with Objective-C 4th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIR09RbWNqQUlMcjg"
+    },
+    {
+        "book_name": "iOS Game Development Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Jonathon Manning",
+            "Paris Buttfield-Addison"
+        ],
+        "ISPN": "978-1-44936-876-0",
+        "pages_count": 396,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS Game Development Cookbook 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIYmJJQzN1LVZYcEE"
+    },
+    {
+        "book_name": "iOS 7 Game Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Dmitry Volevodz"
+        ],
+        "ISPN": "978-1-78355-157-6",
+        "pages_count": 120,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS 7 Game Development 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVWlVYWFZOUdobm8"
+    },
+    {
+        "book_name": "iOS and OS X Network Programming Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Jon Hoffman"
+        ],
+        "ISPN": "978-1-84969-808-5",
+        "pages_count": 300,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS and OS X Network Programming Cookbook 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIeUJJbXdwVXYtTHc"
+    },
+    {
+        "book_name": "Beginning iOS Programming",
+        "edition": "1st Edition",
+        "authors": [
+            "Nick Harris"
+        ],
+        "ISPN": "978-1-118-84147-1",
+        "pages_count": 336,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning iOS Programming 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVmJoS213S1BXdGc"
+    },
+    {
+        "book_name": "Pro iOS Continuous Integration",
+        "edition": "1st Edition",
+        "authors": [
+            "Romain Pouclet"
+        ],
+        "ISPN": "978-1-484201-25-1",
+        "pages_count": 224,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Pro iOS Continuous Integration 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIUHJPbElnQUNGSlk"
+    },
+    {
+        "book_name": "The Core iOS Developer's Cookbook",
+        "edition": "5th Edition",
+        "authors": [
+            "Erica Sadun",
+            "Rich Wardwell"
+        ],
+        "ISPN": "978-0-321-94810-6",
+        "pages_count": 672,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/The Core iOS Developer's Cookbook 5th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIRkY5WXJ6YUJ2STQ"
+    },
+    {
+        "book_name": "IOS UICollectionView",
+        "edition": "2nd Edition",
+        "authors": [
+            "Ash Furrow"
+        ],
+        "ISPN": "978-0-13-376261-7",
+        "pages_count": 191,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/IOS UICollectionView 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIeXpLd3EtTDZWdXc"
+    },
+    {
+        "book_name": "Learning iCloud Data Management",
+        "edition": "1st Edition",
+        "authors": [
+            "Jesse Feiler"
+        ],
+        "ISPN": "978-0-321-88911-9",
+        "pages_count": 400,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning iCloud Data Management 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQISjVHNUI5QldfbzQ"
+    },
+    {
+        "book_name": "iPad and iPhone Kung Fu",
+        "edition": "1st Edition",
+        "authors": [
+            "Keir Thomas"
+        ],
+        "ISPN": "978-1-93778-572-7",
+        "pages_count": 300,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iPad and iPhone Kung Fu 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIaGE3MklqdE9mMDQ"
+    },
+    {
+        "book_name": "Cocos2d-x Game Development Essentials",
+        "edition": "1st Edition",
+        "authors": [
+            "Frahaan Hussain",
+            "Arutosh Gurung",
+            "Gareth Jones"
+        ],
+        "ISPN": "978-1-78398-786-3",
+        "pages_count": 136,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Cocos2d-x Game Development Essentials 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMEJZbHh3dlBTZG8"
+    },
+    {
+        "book_name": "Beginning iOS 7 Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Jack Nutting",
+            "Fredrik Olsson",
+            "David Mark",
+            "Jeff LaMarche"
+        ],
+        "ISPN": "978-1-4302-6022-6",
+        "pages_count": 720,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning iOS 7 Development 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOWc5enhMM2JJb28"
+    },
+    {
+        "book_name": "Delphi Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Daniele Teti"
+        ],
+        "ISPN": "978-1-78355-958-9",
+        "pages_count": 328,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Delphi Cookbook 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMGpxOXEwMVh5WDg"
+    },
+    {
+        "book_name": "The Business of iOS App Development",
+        "edition": "3rd Edition",
+        "authors": [
+            "Taylor Pierce",
+            "Dave Wooldridge"
+        ],
+        "ISPN": "978-1-4302-6238-1",
+        "pages_count": 440,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/The Business of iOS App Development 3rd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIUGMyVTRJQjNWSmM"
+    },
+    {
+        "book_name": "Beginning iPhone Development with Swift",
+        "edition": "1st Edition",
+        "authors": [
+            "David Mark",
+            " Jack Nutting",
+            "Kim Topley",
+            "Fredrik Olsson",
+            " Jeff LaMarche"
+        ],
+        "ISPN": "978-1-484204-10-8",
+        "pages_count": 828,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning iPhone Development with Swift 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIbEZadDQ2dC1rcTA"
+    },
+    {
+        "book_name": "iOS 7 in Action",
+        "edition": "1st Edition",
+        "authors": [
+            "Brendan G. Lim",
+            "Martin Conte Mac Donell"
+        ],
+        "ISPN": "978-1-61729-142-5",
+        "pages_count": 368,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS 7 in Action 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIbzV1LTM1UnZDVW8"
+    },
+    {
+        "book_name": "SAP ABAP",
+        "edition": "1st Edition",
+        "authors": [
+            "Sushil Markandeya",
+            "Kaushik Roy"
+        ],
+        "ISPN": "978-1-4302-4803-3",
+        "pages_count": 892,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/SAP ABAP 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIb29DWF9nb3l1QUk"
+    },
+    {
+        "book_name": "Beginning iOS Media App Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Ahmed Bakir"
+        ],
+        "ISPN": "978-1-4302-5083-8",
+        "pages_count": 436,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning iOS Media App Development 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIZXJ2Tm9CTUYwY0k"
+    },
+    {
+        "book_name": "Introducing iOS 8",
+        "edition": "1st Edition",
+        "authors": [
+            "Steve Derico"
+        ],
+        "ISPN": "978-1-49190-861-7",
+        "pages_count": 334,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Introducing iOS 8 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIZGZXZGZEbktGWG8"
+    },
+    {
+        "book_name": "iOS 8 Swift Programming Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Vandad Nahavandipoor"
+        ],
+        "ISPN": "978-1-49190-869-3",
+        "pages_count": 902,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS 8 Swift Programming Cookbook 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIS0NEVXVJdUVDdUk"
+    },
+    {
+        "book_name": "Pro iOS Persistence",
+        "edition": "1st Edition",
+        "authors": [
+            "Michael Privat",
+            "Robert Warner"
+        ],
+        "ISPN": "978-1-4302-6028-8",
+        "pages_count": 388,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Pro iOS Persistence 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQILU9NLXVfbGU3a3M"
+    },
+    {
+        "book_name": "Learn iOS 8 App Development",
+        "edition": "2nd Edition",
+        "authors": [
+            "James Bucanek"
+        ],
+        "ISPN": "978-1-484202-09-8",
+        "pages_count": 768,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learn iOS 8 App Development 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQINGZBWUp1OTluQnM"
+    },
+    {
+        "book_name": "Beginning iPhone Development",
+        "edition": "7th Edition",
+        "authors": [
+            "David Mark",
+            "Jack Nutting",
+            "Kim Topley",
+            "Fredrik Olsson",
+            "Jeff LaMarche"
+        ],
+        "ISPN": "978-1-484202-00-5",
+        "pages_count": 808,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning iPhone Development 7th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIUllIaVgwdGxKMms"
+    },
+    {
+        "book_name": "Xamarin Essentials",
+        "edition": "1st Edition",
+        "authors": [
+            "Mark Reynolds"
+        ],
+        "ISPN": "978-1-78355-083-8",
+        "pages_count": 234,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Xamarin Essentials 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOFpOdS11OHYxRGs"
+    },
+    {
+        "book_name": "Diffusion Tensor Imaging: A Practical Handbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Wim Van Hecke",
+            "Louise Emsell",
+            "Stefan Sunaert"
+        ],
+        "ISPN": "9781493931170",
+        "pages_count": 440,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/41vUmHdX2mL._SX348_BO1,204,203,200_.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVXNJcVdSWGp3UzQ"
+    },
+    {
+        "book_name": "Ganong's Review of Medical Physiology",
+        "edition": "25th Edition",
+        "authors": [
+            "William F Ganong"
+        ],
+        "ISPN": "9780870411373",
+        "pages_count": 768,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Ganong's Review of Medical Physiology 25th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIQThMaFcyS1lHSkE"
+    },
+    {
+        "book_name": "Illustrative Handbook of General Surgery",
+        "edition": "2nd Edition",
+        "authors": [
+            "Herbert Chen"
+        ],
+        "ISPN": "9781848820883",
+        "pages_count": 801,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Illustrative Handbook of General Surgery 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIdm1xSWdUWXJBZkU"
+    },
+    {
+        "book_name": "Introducing Anaesthesia (Oxford Specialty Training)",
+        "edition": "1st Edition",
+        "authors": [
+            "Paul Greig",
+            "Nicholas Crabtree"
+        ],
+        "ISPN": "978-0198716709",
+        "pages_count": 224,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Introducing Anaesthesia (Oxford Specialty Training) 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOW1WQnoxRDJjREU"
+    },
+    {
+        "book_name": "Manual of Traumatic Brain Injury: Assessment and Management",
+        "edition": "2nd Edition",
+        "authors": [
+            "Felise Zollman"
+        ],
+        "ISPN": "978-1620700938",
+        "pages_count": 608,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/411VY8EU2DL._SX331_BO1,204,203,200_.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITlctNGJTT1U1RWs"
+    },
+    {
+        "book_name": "Lecture Notes: Dermatology",
+        "edition": "11th Edition",
+        "authors": [
+            "Robin Graham-Brown",
+            "Tony Burns"
+        ],
+        "ISPN": "9781405195713",
+        "pages_count": 224,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/41kQARdD2EL._SX346_BO1,204,203,200_.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIbFRETDJVWVJUb2s"
+    },
+    {
+        "book_name": "Neoplastic Mimics in Gastrointestinal and Liver Pathology",
+        "edition": "1st Edition",
+        "authors": [
+            "Arief Suriawinata MD"
+        ],
+        "ISPN": "978-1620700365",
+        "pages_count": 268,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Neoplastic Mimics in Gastrointestinal and Liver Pathology 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIY2dadkdfYThhTmM"
+    },
+    {
+        "book_name": "Practical Orthopedics Biological Options and Simpler Techniques for Common Disorders",
+        "edition": "1st Edition",
+        "authors": [
+            "TULI SM"
+        ],
+        "ISPN": "978-9351526568",
+        "pages_count": 192,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Practical Orthopedics Biological Options and Simpler Techniques for Common Disorders  1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIckoxR21wZXBJdjQ"
+    },
+    {
+        "book_name": "Dermatological Signs of Systemic Disease",
+        "edition": "5th Edition",
+        "authors": [
+            "Jeffrey Callen"
+        ],
+        "ISPN": "9781416061113",
+        "pages_count": 480,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Dermatological Signs of Systemic Disease 5th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIenpuTGp5QUNQaWc"
+    },
+    {
+        "book_name": "Self - Hypnosis Train Your Mind",
+        "edition": "1st Edition",
+        "authors": [
+            "Paul Anwandter"
+        ],
+        "ISPN": "B00P8DTBMW",
+        "pages_count": 245,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Self - Hypnosis Train Your Mind 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxenJvbUU3TVNZQlk"
+    },
+    {
+        "book_name": "Pulmonary Circulation - Diseases and Their Treatment",
+        "edition": "4th Edition",
+        "authors": [
+            "Andrew J Peacock",
+            "Lewis J Rubin"
+        ],
+        "ISPN": "9780340807828",
+        "pages_count": 802,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Pulmonary Circulation - Diseases and Their Treatment 4th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIbnFUdFFGMXVjTEk"
+    },
+    {
+        "book_name": "The Rheumatology Handbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Margaret Callan"
+        ],
+        "ISPN": "9781848163201",
+        "pages_count": 488,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/The Rheumatology Handbook 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIeFpLQkJ4OG8wSEU"
+    },
+    {
+        "book_name": "Neurology Secrets",
+        "edition": "6th Edition",
+        "authors": [
+            "Loren A Rolak",
+            "Loren A Rolak"
+        ],
+        "ISPN": "9780323057127",
+        "pages_count": 552,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Neurology Secrets 6th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMVBWRkRuQVhJVnM"
+    },
+    {
+        "book_name": "Henrys Clinical Diagnosis and Management by Laboratory Methods",
+        "edition": "23th Edition",
+        "authors": [
+            "James T Todd",
+            "Arthur Hawley Sanford",
+            "Israel Davidsohn",
+            "John Bernard Henry"
+        ],
+        "ISPN": "9780721646398",
+        "pages_count": 1584,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Henrys Clinical Diagnosis and Management by Laboratory Methods  23th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIWnV4U3JJSnVBWTg"
+    },
+    {
+        "book_name": "User's Guide to the Medical Literature",
+        "edition": "3rd Edition",
+        "authors": [
+            "Gordon Guyatt",
+            "Drummond Rennie"
+        ],
+        "ISPN": "9781579471910",
+        "pages_count": 519,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/User's Guide to the Medical Literature 3rd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIbF8xbU5TZGtMZ1k"
+    },
+    {
+        "book_name": "Modular Java",
+        "edition": "1st Edition",
+        "authors": [
+            "Craig Walls"
+        ],
+        "ISPN": "978-1-93435-640-1",
+        "pages_count": 260,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Modular Java 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIa21EODNUc0tYRnM"
+    },
+    {
+        "book_name": "Spring MVC Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Alex Bretet"
+        ],
+        "ISPN": "978-1-78439-641-1",
+        "pages_count": 466,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Spring MVC Cookbook 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITmxPVHBlNk9VWE0"
+    },
+    {
+        "book_name": "Learning Spring Application Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Ravi Kant Soni"
+        ],
+        "ISPN": "978-1-78398-736-8",
+        "pages_count": 394,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning Spring Application Development 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIYkNGakRJTVItRWM"
+    },
+    {
+        "book_name": "Mockito for Spring",
+        "edition": "1st Edition",
+        "authors": [
+            "Sujoy Acharya"
+        ],
+        "ISPN": "978-1-78398-378-0",
+        "pages_count": 178,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Mockito for Spring 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITVZQblhaOE9JaU0"
+    },
+    {
+        "book_name": "Spring in Action",
+        "edition": "4th Edition",
+        "authors": [
+            "Craig Walls"
+        ],
+        "ISPN": "978-1-61729-120-3",
+        "pages_count": 624,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Spring in Action 4th Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIYndRWGpxM1I5cUk"
+    },
+    {
+        "book_name": "Spring for Android Starter",
+        "edition": "1st Edition",
+        "authors": [
+            "Anthony Dahanne"
+        ],
+        "ISPN": "978-1-78216-190-5",
+        "pages_count": 60,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Spring for Android Starter 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMUl3cmVfQk03ZnM"
+    },
+    {
+        "book_name": "Just Spring Integration",
+        "edition": "1st Edition",
+        "authors": [
+            "Madhusudhan Konda"
+        ],
+        "ISPN": "978-1-4493-1608-2",
+        "pages_count": 100,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Just Spring Integration 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIckxEVzlwUy1HVzg"
+    },
+    {
+        "book_name": "Just Spring",
+        "edition": "1st Edition",
+        "authors": [
+            "Madhusudhan Konda"
+        ],
+        "ISPN": "978-1-4493-0640-3",
+        "pages_count": 78,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Just Spring 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIS21rOFJDdEVJVVU"
+    },
+    {
+        "book_name": "Getting Started with Roo",
+        "edition": "1st Edition",
+        "authors": [
+            "Josh Long",
+            "Steve Mayzak"
+        ],
+        "ISPN": "978-1-4493-0790-5",
+        "pages_count": 64,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Getting Started with Roo 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIU0I4VERNWTU5eWc"
+    },
+    {
+        "book_name": "Spring Roo in Action",
+        "edition": "1st Edition",
+        "authors": [
+            "Ben Alex"
+        ],
+        "ISPN": "978-1-9351-8296-2",
+        "pages_count": 408,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Spring Roo in Action 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOFJMUGpSbUpHZDQ"
+    },
+    {
+        "book_name": "Learning iOS 8 for Enterprise",
+        "edition": "1st Edition",
+        "authors": [
+            "Mayank Birani"
+        ],
+        "ISPN": "978-1-78439-182-9",
+        "pages_count": 220,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning iOS 8 for Enterprise 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIWHowbkhZZ0hWYXc"
+    },
+    {
+        "book_name": "Swift Development with Cocoa",
+        "edition": "1st Edition",
+        "authors": [
+            "Jonathon Manning",
+            "Paris Buttfield-Addison",
+            "Tim Nugent"
+        ],
+        "ISPN": "978-1-49190-894-5",
+        "pages_count": 474,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Swift Development with Cocoa 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIaGROYjJvNFoxUWc"
+    },
+    {
+        "book_name": "Swift Pocket Reference",
+        "edition": "1st Edition",
+        "authors": [
+            "Anthony Gray"
+        ],
+        "ISPN": "978-1-49191-542-4",
+        "pages_count": 186,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Swift Pocket Reference 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOEtaaE5ENHcxWjA"
+    },
+    {
+        "book_name": "Build iOS Games with Sprite Kit",
+        "edition": "1st Edition",
+        "authors": [
+            "Jonathan Penn",
+            "Josh Smith"
+        ],
+        "ISPN": "978-1-94122-210-2",
+        "pages_count": 216,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Build iOS Games with Sprite Kit 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQING9SYjNtRkZpUDQ"
+    },
+    {
+        "book_name": "Programming iOS 8",
+        "edition": "1st Edition",
+        "authors": [
+            "Matt Neuburg"
+        ],
+        "ISPN": "978-1-49190-873-0",
+        "pages_count": 1018,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Programming iOS 8 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMFNJWVMxcVp2dlk"
+    },
+    {
+        "book_name": "High Performance iOS Apps",
+        "edition": "1st Edition",
+        "authors": [
+            "Gaurav Vaish"
+        ],
+        "ISPN": "978-1-49191-100-6",
+        "pages_count": 500,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/High Performance iOS Apps 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIWkhHd2F4ck5DOTQ"
+    },
+    {
+        "book_name": "Barcodes with iOS",
+        "edition": "1st Edition",
+        "authors": [
+            "Oliver Drobnik"
+        ],
+        "ISPN": "978-1-61729-215-6",
+        "pages_count": 248,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Barcodes with iOS 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQISFhDWEhPaUxlQlE"
+    },
+    {
+        "book_name": "Learning Unreal Engine iOS Game Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Muhammad A.Moniem"
+        ],
+        "ISPN": "978-1-78439-771-5",
+        "pages_count": 212,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning Unreal Engine iOS Game Development 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVFpMYlphVmNRZ1E"
+    },
+    {
+        "book_name": "Learning iOS Security",
+        "edition": "1st Edition",
+        "authors": [
+            "Allister Banks",
+            "Charles S Edge"
+        ],
+        "ISPN": "978-1-78355-174-3",
+        "pages_count": 142,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning iOS Security 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIWmtNTkZseGtpT1U"
+    },
+    {
+        "book_name": "Xamarin Cross-platform Application Development",
+        "edition": "2nd Edition",
+        "authors": [
+            "Jonathan Peppers"
+        ],
+        "ISPN": "978-1-78439-788-3",
+        "pages_count": 298,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Xamarin Cross-platform Application Development 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIZ0xKQXVja09pZ0U"
+    },
+    {
+        "book_name": "iOS 8 Programming Fundamentals with Swift",
+        "edition": "1st Edition",
+        "authors": [
+            "Matt Neuburg"
+        ],
+        "ISPN": "978-1-49190-890-7",
+        "pages_count": 582,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS 8 Programming Fundamentals with Swift 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIM1I4amc0cHl3R0k"
+    },
+    {
+        "book_name": "Learn Swift on the Mac",
+        "edition": "1st Edition",
+        "authors": [
+            "Waqar Malik"
+        ],
+        "ISPN": "978-1-484203-77-4",
+        "pages_count": 268,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learn Swift on the Mac 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIbnFQN0lsRWYtUkU"
+    },
+    {
+        "book_name": "More iPhone Development with Swift",
+        "edition": "1st Edition",
+        "authors": [
+            "David Mark",
+            "Jayant Varma",
+            "Jeff LaMarche",
+            "Alex Horovitz",
+            "Kevin Kim"
+        ],
+        "ISPN": "978-1-484204-49-8",
+        "pages_count": 494,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/More iPhone Development with Swift 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITGJuWjVEbDJlWW8"
+    },
+    {
+        "book_name": "Beginning Swift Games Development for iOS",
+        "edition": "1st Edition",
+        "authors": [
+            "James Goodwill",
+            "Wesley Matlock"
+        ],
+        "ISPN": "978-1-484204-01-6",
+        "pages_count": 276,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning Swift Games Development for iOS 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIV3ZTaXRpeGtsdkU"
+    },
+    {
+        "book_name": "Corona SDK Mobile Game Development",
+        "edition": "2nd Edition",
+        "authors": [
+            "Michelle M Fernandez"
+        ],
+        "ISPN": "978-1-78355-934-3",
+        "pages_count": 372,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Corona SDK Mobile Game Development 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIN0lRMXl6M1RCeGs"
+    },
+    {
+        "book_name": "Learning iOS Forensics",
+        "edition": "1st Edition",
+        "authors": [
+            "Mattia Epifani",
+            "Pasquale Stirparo"
+        ],
+        "ISPN": "978-1-78355-351-8",
+        "pages_count": 220,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning iOS Forensics 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIWTNuWC1aOF9tbmM"
+    },
+    {
+        "book_name": "iOS Game Programming Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Bhanu Birani",
+            "Chhavi Vaishnav"
+        ],
+        "ISPN": "978-1-78439-825-5",
+        "pages_count": 300,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS Game Programming Cookbook 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIaXdkOFY1ODI5aW8"
+    },
+    {
+        "book_name": "Managing Microsoft Hybrid Clouds",
+        "edition": "1st Edition",
+        "authors": [
+            "Marcel van den Berg"
+        ],
+        "ISPN": "978-1-78217-716-6",
+        "pages_count": 308,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Managing Microsoft Hybrid Clouds 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOFpIM2lTVFlkOVk"
+    },
+    {
+        "book_name": "Objective-C Memory Management Essentials",
+        "edition": "1st Edition",
+        "authors": [
+            "Gibson Tang",
+            "Maxim Vasilkov"
+        ],
+        "ISPN": "978-1-84969-712-5",
+        "pages_count": 200,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Objective-C Memory Management Essentials 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIRHpOeVd1dHhPMTA"
+    },
+    {
+        "book_name": "IOS Swift Game Development Cookbook",
+        "edition": "2nd Edition",
+        "authors": [
+            "Jonathon Manning",
+            "Paris Buttfield-Addison"
+        ],
+        "ISPN": "978-1-49192-080-0",
+        "pages_count": 406,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/IOS Swift Game Development Cookbook 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIZ0Y2cURNUDFjMXc"
+    },
+    {
+        "book_name": "ArcGIS By Example",
+        "edition": "1st Edition",
+        "authors": [
+            "Hussein Nasser"
+        ],
+        "ISPN": "978-1-78217-520-9",
+        "pages_count": 258,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/ArcGIS By Example 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMDJOQWhsQVh5eVE"
+    },
+    {
+        "book_name": "Learn WatchKit for iOS",
+        "edition": "1st Edition",
+        "authors": [
+            "Kim Topley"
+        ],
+        "ISPN": "978-1-484210-26-0",
+        "pages_count": 464,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learn WatchKit for iOS 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIR3NZQnZTbkdKaWc"
+    },
+    {
+        "book_name": "Programming iOS 9",
+        "edition": "1st Edition",
+        "authors": [
+            "Matt Neuburg"
+        ],
+        "ISPN": "978-1-49193-685-6",
+        "pages_count": 1048,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Programming iOS 9 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIOU94ZTNvNHdFdVE"
+    },
+    {
+        "book_name": "iOS eCommerce App Development with Parse",
+        "edition": "1st Edition",
+        "authors": [
+            "Liangjun Jiang"
+        ],
+        "ISPN": "978-1-484213-18-6",
+        "pages_count": 224,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS eCommerce App Development with Parse 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=1EwvoGr1-SFVbg4pI4WQwDOmywer1jv3L"
+    },
+    {
+        "book_name": "MPLS in the SDN Era",
+        "edition": "1st Edition",
+        "authors": [
+            "Antonio Sanchez Monge",
+            "Krzysztof Grzegorz Szarkowicz"
+        ],
+        "ISPN": "978-1-49190-545-6",
+        "pages_count": 920,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/MPLS in the SDN Era 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIY2dyLU05M24ya0E"
+    },
+    {
+        "book_name": "Swift Pocket Reference",
+        "edition": "2nd Edition",
+        "authors": [
+            "Anthony Gray"
+        ],
+        "ISPN": "978-1-49194-007-5",
+        "pages_count": 236,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Swift Pocket Reference 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQINmFCajBvakVpYWc"
+    },
+    {
+        "book_name": "iOS 9 Swift Programming Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Vandad Nahavandipoor"
+        ],
+        "ISPN": "978-1-4919-3669-6",
+        "pages_count": 322,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS 9 Swift Programming Cookbook 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQISVdrS0hweUhyVnM"
+    },
+    {
+        "book_name": "Learning iOS UI Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Yari D'areglia"
+        ],
+        "ISPN": "978-1-78528-819-7",
+        "pages_count": 196,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learning iOS UI Development 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQITUJIUWlhajY1c2s"
+    },
+    {
+        "book_name": "Mastering iOS Game Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Miguel DeQuadros"
+        ],
+        "ISPN": "978-1-78355-435-5",
+        "pages_count": 228,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Mastering iOS Game Development 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIN0NyU2RweENfc3c"
+    },
+    {
+        "book_name": "Designing for iOS with Sketch",
+        "edition": "1st Edition",
+        "authors": [
+            "Sian Morson"
+        ],
+        "ISPN": "978-1-484214-59-6",
+        "pages_count": 200,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Designing for iOS with Sketch 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIYnpnamI5aU10QWc"
+    },
+    {
+        "book_name": "Swift 2 Design Patterns",
+        "edition": "1st Edition",
+        "authors": [
+            "Julien Lange"
+        ],
+        "ISPN": "978-1-78588-761-1",
+        "pages_count": 224,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Swift 2 Design Patterns 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIcUxkTjdrb0tQNUE"
+    },
+    {
+        "book_name": "Mastering Swift 2",
+        "edition": "1st Edition",
+        "authors": [
+            "Jon Hoffman"
+        ],
+        "ISPN": "978-1-78588-603-4",
+        "pages_count": 408,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Mastering Swift 2 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIeHFGX1BvZmQwZlk"
+    },
+    {
+        "book_name": "Getting Started with React Native",
+        "edition": "1st Edition",
+        "authors": [
+            "Ethan Holmes",
+            "Tom Bray"
+        ],
+        "ISPN": "978-1-78588-518-1",
+        "pages_count": 172,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Getting Started with React Native 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIQVFraU5GcUZhY2M"
+    },
+    {
+        "book_name": "iOS 9 Programming Fundamentals with Swift",
+        "edition": "1st Edition",
+        "authors": [
+            "Matt Neuburg"
+        ],
+        "ISPN": "978-1-49193-677-1",
+        "pages_count": 604,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/iOS 9 Programming Fundamentals with Swift 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIU1VwMHVCQTU4TGc"
+    },
+    {
+        "book_name": "Application Development with Swift",
+        "edition": "1st Edition",
+        "authors": [
+            "Hossam Ghareeb"
+        ],
+        "ISPN": "978-1-78528-817-3",
+        "pages_count": 144,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Application Development with Swift 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIM212VnFlSGNWYkk"
+    },
+    {
+        "book_name": "Beginning iPhone Development with Swift 2",
+        "edition": "2nd Edition",
+        "authors": [
+            "David Mark",
+            "Kim Topley",
+            " Jack Nutting",
+            "Fredrik Olsson",
+            "Jeff LaMarche"
+        ],
+        "ISPN": "978-1-484217-53-5",
+        "pages_count": 880,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning iPhone Development with Swift 2 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIMWlrUzkxeHVhaWc"
+    },
+    {
+        "book_name": "Program the Internet of Things with Swift for iOS",
+        "edition": "1st Edition",
+        "authors": [
+            "Ahmed Bakir",
+            "Manny de la Torriente",
+            "Gheorghe Chesler"
+        ],
+        "ISPN": "978-1-484211-95-3",
+        "pages_count": 524,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Program the Internet of Things with Swift for iOS 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIZUlYcWg3V0JSTUk"
+    },
+    {
+        "book_name": "Apple Pay Essentials",
+        "edition": "1st Edition",
+        "authors": [
+            "Ernest Bruce"
+        ],
+        "ISPN": "978-1-78588-638-6",
+        "pages_count": 118,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Apple Pay Essentials 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIQ0cwNTBaM09ZNUU"
+    },
+    {
+        "book_name": "Cisco Networks Engineers' Handbook of Routing, Switching, and Security",
+        "edition": "1st Edition",
+        "authors": [
+            "Christopher Carthern",
+            "William Wilson",
+            "Noel Rivera",
+            "Richard Bedwell"
+        ],
+        "ISPN": "1484208609",
+        "pages_count": 839,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Cisco Networks Engineers' Handbook of Routing, Switching, and Security 1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIa1g3ZDZ3NEVZNFU"
+    },
+    {
+        "book_name": "Beginning the Linux Command Line",
+        "edition": "2nd Edition",
+        "authors": [
+            "Sander van Vugt"
+        ],
+        "ISPN": "9781430218890",
+        "pages_count": 399,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Beginning the Linux Command Line 2nd Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVXJwdEV1ZjM0Wk0"
+    },
+    {
+        "book_name": "Learn Python Visually 2015",
+        "edition": "1st Edition",
+        "authors": [
+            "Mr Ivelin Demirov"
+        ],
+        "ISPN": "9787564100476",
+        "pages_count": 132,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Learn Python Visually 2015  1st Edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B8stJOoZccQIVzA1OVd2clFHbms"
+    }
+]

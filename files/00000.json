@@ -1,0 +1,451 @@
+[
+    {
+        "book_name": "Beginning F# 4.0",
+        "edition": "2nd Edition",
+        "authors": [
+            "Robert Pickering",
+            "Kit Eason"
+        ],
+        "ISPN": "978-1-484213-75-9",
+        "pages_count": 327,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/fsharp-d2d.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxUGRKVnQtWDhBMWM"
+    },
+    {
+        "book_name": "Head First Ajax",
+        "edition": "1st Edition",
+        "authors": [
+            "Rebecca M Riordan"
+        ],
+        "ISPN": "978-0-596-51578-2",
+        "pages_count": 478,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/head_first_ajax.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxbUlPdnlYckJ6MG8"
+    },
+    {
+        "book_name": "C# 24-Hour Trainer",
+        "edition": "2nd Edition",
+        "authors": [
+            "Rod Stephens"
+        ],
+        "ISPN": "978-1-119-06566-1",
+        "pages_count": 597,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-c_24-hour_trainer_2nd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxcnRkMkNLSE44TFU"
+    },
+    {
+        "book_name": "Professional ASP.NET 4 in C# and VB",
+        "edition": "1st Edition",
+        "authors": [
+            "Scott Hanselman",
+            " Devin Rader",
+            " Bill Evje"
+        ],
+        "ISPN": "978-1-4571-0402-2",
+        "pages_count": 1539,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/professional_asp.net_4_in_c_and_vb.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/19\/professional-aspnet-4-c-vb-pdf"
+    },
+    {
+        "book_name": "Java Programming 24-Hour Trainer",
+        "edition": "2nd Edition",
+        "authors": [
+            "Yakov Fain"
+        ],
+        "ISPN": "978-1-118-95145-3",
+        "pages_count": 619,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-java_programming_24-hour_trainer_2nd_edition.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/22\/java-programming-24-hour-trainer-2nd-edition-pdf"
+    },
+    {
+        "book_name": "Minecraft Modding with Forge",
+        "edition": "1st Edition",
+        "authors": [
+            "Arun Gupta",
+            " Aditya Gupta"
+        ],
+        "ISPN": "978-1-49191-889-0",
+        "pages_count": 194,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-minecraft_modding_with_forge.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/23\/minecraft-modding-forge-pdf"
+    },
+    {
+        "book_name": "jQuery For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Lynn Beighley"
+        ],
+        "ISPN": "978-0-470-58445-3",
+        "pages_count": 364,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/jquery_for_dummies.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/24\/jquery-dummies-pdf"
+    },
+    {
+        "book_name": "Professional JavaScript for Web Developers",
+        "edition": "3rd Edition",
+        "authors": [
+            "Nicholas C. Zakas"
+        ],
+        "ISPN": "978-1-1180-2669-4",
+        "pages_count": 964,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/professional_javascript_for_web_developers_3rd_edition.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/26\/professional-javascript-web-developers-3rd-edition-pdf"
+    },
+    {
+        "book_name": "Beginning C# 6 Programming with Visual Studio 2015",
+        "edition": "1st Edition",
+        "authors": [
+            "Jon D Reid",
+            " Jacob Vibe Hammer"
+        ],
+        "ISPN": "978-1-119-09668-9",
+        "pages_count": 842,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-beginning_c_6_programming_with_visual_studio_2015.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxOU5HNktRSXNyVG8"
+    },
+    {
+        "book_name": "Beginning Visual Basic 2015",
+        "edition": "2nd Edition",
+        "authors": [
+            "Bryan Newsome"
+        ],
+        "ISPN": "978-1-119-09211-7",
+        "pages_count": 621,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-beginning_visual_basic_2015.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxbm0zOW12WVNqcEU"
+    },
+    {
+        "book_name": "Swift iOS 24-Hour Trainer",
+        "edition": "1st Edition",
+        "authors": [
+            "Abhishek Mishra"
+        ],
+        "ISPN": "978-1-119-07355-0",
+        "pages_count": 626,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-swift_ios_24-hour_trainer.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/30\/swift-ios-24-hour-trainer-pdf"
+    },
+    {
+        "book_name": "Learning Node",
+        "edition": "2nd Edition",
+        "authors": [
+            "Shelley Powers"
+        ],
+        "ISPN": "978-1-49194-312-0",
+        "pages_count": 280,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-learning_node_2nd_edition_early_release.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxLUNIUDNlbjZ4WlU"
+    },
+    {
+        "book_name": "Python Crash Course",
+        "edition": "1st Edition",
+        "authors": [
+            "Eric Matthes"
+        ],
+        "ISPN": "978-1-59327-603-4",
+        "pages_count": 562,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-python_crash_course.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/33\/python-crash-course-pdf"
+    },
+    {
+        "book_name": "Python Playground",
+        "edition": "1st Edition",
+        "authors": [
+            "Mahesh Venkitachalam"
+        ],
+        "ISPN": "978-1-59327-604-1",
+        "pages_count": 353,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-python_playground.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/36\/python-playground-pdf"
+    },
+    {
+        "book_name": "Designing BSD Rootkits",
+        "edition": "1st Edition",
+        "authors": [
+            "Joseph Kong"
+        ],
+        "ISPN": "978-1-59327-142-8",
+        "pages_count": 164,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2007-designing_bsd_rootkits.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxSk54SkxjSDZWb3c"
+    },
+    {
+        "book_name": "Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809",
+        "edition": "1st Edition",
+        "authors": [
+            "S G Ganesh",
+            "Tushar Sharma",
+            "Hari Kiran"
+        ],
+        "ISPN": "978-1-484218-35-8",
+        "pages_count": 496,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-oracle_certified_professional_java_se_8_programmer_exam_1z0-809.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/41\/oracle-certified-professional-java-se-8-programmer-exam-1z0-809-pdf"
+    },
+    {
+        "book_name": "Beginning Oracle Application Express 5",
+        "edition": "3rd Edition",
+        "authors": [
+            "Doug Gault"
+        ],
+        "ISPN": "978-1-484204-67-2",
+        "pages_count": 494,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-beginning_oracle_application_express_5_3rd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxOVVBOTVWZkhnaXc"
+    },
+    {
+        "book_name": "Python Projects for Kids",
+        "edition": "1st Edition",
+        "authors": [
+            "Jessica Ingrassellino"
+        ],
+        "ISPN": "978-1-78217-506-3",
+        "pages_count": 193,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-python_projects_for_kids.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/64\/python-projects-kids-pdf"
+    },
+    {
+        "book_name": "Make an E-commerce Site in a Weekend",
+        "edition": "1st Edition",
+        "authors": [
+            "B M Harwani"
+        ],
+        "ISPN": "978-1-484216-73-6",
+        "pages_count": 133,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-make_an_e-commerce_site_in_a_weekend.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxTkx0NllnWnNWTjg"
+    },
+    {
+        "book_name": "Apple Watch Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Steven F Daniel"
+        ],
+        "ISPN": "978-1-78588-636-2",
+        "pages_count": 359,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-apple_watch_app_development.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B2t-Tmujl-IbTEU0c0xMaFZlZDA"
+    },
+    {
+        "book_name": "ReactJS by Example Building Modern Web Applications with React",
+        "edition": "1st Edition",
+        "authors": [
+            "Vipul A M",
+            "Prathamesh Sonpatki"
+        ],
+        "ISPN": "978-1-78528-964-4",
+        "pages_count": 280,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/re.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/67\/reactjs-example-building-modern-web-applications-react-pdf"
+    },
+    {
+        "book_name": "Big Data Analytics with Spark",
+        "edition": "1st Edition",
+        "authors": [
+            "Mohammed Guller"
+        ],
+        "ISPN": "978-1-484209-65-3",
+        "pages_count": 290,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-big_data_analytics_with_spark.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxODVnYVVZLWkwOXM"
+    },
+    {
+        "book_name": "Learn PHP 7",
+        "edition": "1st Edition",
+        "authors": [
+            "Steve Prettyman"
+        ],
+        "ISPN": "978-1-484217-29-0",
+        "pages_count": 308,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-learn_php_7.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/77\/learn-php-7-pdf"
+    },
+    {
+        "book_name": "Algorithms in a Nutshell",
+        "edition": "2nd Edition",
+        "authors": [
+            "Gary Pollice",
+            "George T Heineman",
+            "Stanley Selkow"
+        ],
+        "ISPN": "978-1-49194-892-7",
+        "pages_count": 435,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-algorithms_in_a_nutshell_early_release.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxVWlKRzVrVTBueEE"
+    },
+    {
+        "book_name": "Data Wrangling with Python",
+        "edition": "1st Edition",
+        "authors": [
+            "Jacqueline Kazil",
+            "Katharine Jarmul"
+        ],
+        "ISPN": "978-1-49194-881-1",
+        "pages_count": 141,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-data_wrangling_with_python.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/79\/data-wrangling-python-pdf"
+    },
+    {
+        "book_name": "Common Lisp Recipes",
+        "edition": "1st Edition",
+        "authors": [
+            "Edmund Weitz"
+        ],
+        "ISPN": "978-1-484211-77-9",
+        "pages_count": 755,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-common_lisp_recipes.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxal82ZnFkMThDRkU"
+    },
+    {
+        "book_name": "JavaScript Object Programming",
+        "edition": "1st Edition",
+        "authors": [
+            "Martin Rinehart"
+        ],
+        "ISPN": "978-1-484217-86-3",
+        "pages_count": 121,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-javascript_object_programming.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/81\/javascript-object-programming-pdf"
+    },
+    {
+        "book_name": "Storm Real-time Processing Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Quinton Anderson"
+        ],
+        "ISPN": "978-1-78216-442-5",
+        "pages_count": 255,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2013-storm_real-time_processing_cookbook.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/87\/storm-real-time-processing-cookbook-pdf"
+    },
+    {
+        "book_name": "Learn Swift 2 on the Mac",
+        "edition": "2nd Edition",
+        "authors": [
+            "Waqar Malik"
+        ],
+        "ISPN": "978-1-484216-28-6",
+        "pages_count": 239,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-learn_swift_2_on_the_mac_2nd_edition.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/88\/learn-swift-2-on-mac-2nd-edition-pdf"
+    },
+    {
+        "book_name": "Scala Functional Programming Patterns",
+        "edition": "1st Edition",
+        "authors": [
+            "Atul S. Khot"
+        ],
+        "ISPN": "978-1-78398-584-5",
+        "pages_count": 298,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-scala_functional_programming_patterns.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/89\/scala-functional-programming-patterns-pdf"
+    },
+    {
+        "book_name": "COBOL Software Modernization",
+        "edition": "1st Edition",
+        "authors": [
+            "Franck Barbier",
+            "Jean-Luc Recoussine"
+        ],
+        "ISPN": "978-1-84821-760-7",
+        "pages_count": 282,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2014-cobol_software_modernization.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxb0ZmUGs2MFZNZkk"
+    },
+    {
+        "book_name": "Multiplayer Game Programming",
+        "edition": "1st Edition",
+        "authors": [
+            "Josh Glazer",
+            "Sanjay Madhav"
+        ],
+        "ISPN": "978-0-13-403430-0",
+        "pages_count": 385,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-multiplayer_game_programming.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/92\/multiplayer-game-programming-pdf"
+    },
+    {
+        "book_name": "Learning Swift 2 Programming",
+        "edition": "2nd Edition",
+        "authors": [
+            "Jacob Schatz"
+        ],
+        "ISPN": "978-0-13-443159-8",
+        "pages_count": 882,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-learning_swift_2_programming_2nd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=1g_otG20F9zS3jUNL2ONXdCtmnJaXCenv"
+    },
+    {
+        "book_name": "Beginning JavaScript with DOM Scripting and Ajax",
+        "edition": "2nd Edition",
+        "authors": [
+            "Russ Ferguson",
+            "Christian Heilmann"
+        ],
+        "ISPN": "978-1-4302-5092-0",
+        "pages_count": 377,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/beginning_javascript_with_dom_scripting_and_ajax_2nd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxSGgweXFhTDQzRFE"
+    },
+    {
+        "book_name": "Foundations of ASP.NET AJAX",
+        "edition": "1st Edition",
+        "authors": [
+            "Laurence Moroney",
+            "Robin Pars",
+            " John Grieb"
+        ],
+        "ISPN": "978-1-59059-828-3",
+        "pages_count": 288,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/foundations_of_asp.net_ajax.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxVU9CdVNXR2xVTkE"
+    },
+    {
+        "book_name": "AJAX and PHP",
+        "edition": "2nd Edition",
+        "authors": [
+            "Cristian Darie",
+            "Bogdan Brinzarea",
+            "Audra Hendrix"
+        ],
+        "ISPN": "978-1-84719-772-6",
+        "pages_count": 308,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2009-ajax_and_php_2nd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxNGlUQ2V6SHNXZ2s"
+    },
+    {
+        "book_name": "Beginning Smartphone Web Development",
+        "edition": "1st Edition",
+        "authors": [
+            "Gail Frederick",
+            "Rajesh Lal"
+        ],
+        "ISPN": "978-1-4302-2620-8",
+        "pages_count": 366,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/beginning_smartphone_web_development.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxd1FhRENPa3BwWnM"
+    },
+    {
+        "book_name": "Pro JSF and Ajax",
+        "edition": "1st Edition",
+        "authors": [
+            "Jonas Jacobi",
+            "John R. Fallows"
+        ],
+        "ISPN": "978-1-59059-580-0",
+        "pages_count": 465,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/pro_jsf_and_ajax.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/98\/pro-jsf-ajax-pdf"
+    },
+    {
+        "book_name": "Reactive Programming with RxJS",
+        "edition": "1st Edition",
+        "authors": [
+            "Sergi Mansilla"
+        ],
+        "ISPN": "978-1451648539",
+        "pages_count": 141,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-reactive_programming_with_rxjs.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/99\/reactive-programming-rxjs-pdf"
+    }
+]

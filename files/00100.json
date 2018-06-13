@@ -1,0 +1,757 @@
+[
+    {
+        "book_name": "Build Your Own Ajax Web Applications",
+        "edition": "1st Edition",
+        "authors": [
+            "Matthew Eernisse"
+        ],
+        "ISPN": "978-0-97584-194-5",
+        "pages_count": 320,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/build_your_own_ajax_web_applications.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxOXQ5T2o1b2w2ak0"
+    },
+    {
+        "book_name": "Beginning Ajax with PHP",
+        "edition": "1st Edition",
+        "authors": [
+            "Lee Babin"
+        ],
+        "ISPN": "978-1-59059-667-8",
+        "pages_count": 270,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/beginning_ajax_with_php.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxc2ZwRVh3R1hEWFE"
+    },
+    {
+        "book_name": "Foundations of Ajax",
+        "edition": "1st Edition",
+        "authors": [
+            "Nathaniel T Schutta",
+            "Ryan Asleson"
+        ],
+        "ISPN": "978-1-59059-582-4",
+        "pages_count": 297,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/foundations_of_ajax.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxa0M3clpCS3dmVFE"
+    },
+    {
+        "book_name": "Ajax The Definitive Guide",
+        "edition": "1st Edition",
+        "authors": [
+            "Anthony T Holdener III"
+        ],
+        "ISPN": "978-0-596-52838-6",
+        "pages_count": 982,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/ajax_the_definitive_guide.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxZlpOMlMwNGlSZlU"
+    },
+    {
+        "book_name": "Beginning Ajax with ASP.NET",
+        "edition": "1st Edition",
+        "authors": [
+            "Wallace McClure",
+            "Scott Cate",
+            "Paul Glavich"
+        ],
+        "ISPN": "978-0-471-78544-6",
+        "pages_count": 429,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/beginning_ajax_with_asp.net.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxaURkUWpnYTJyOTg"
+    },
+    {
+        "book_name": "Laravel Up & Running",
+        "edition": "1st Edition",
+        "authors": [
+            "Matt Stauffer"
+        ],
+        "ISPN": "978-1-4919-3608-5",
+        "pages_count": 101,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-laravel_up__running_early_release.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/112\/laravel-up-running-pdf"
+    },
+    {
+        "book_name": "Beginning Android",
+        "edition": "5th Edition",
+        "authors": [
+            "Grant Allen"
+        ],
+        "ISPN": "978-1-4302-4686-2",
+        "pages_count": 419,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-beginning_android_5th_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxazRpazdzYXFaNUU"
+    },
+    {
+        "book_name": "Programming Rust",
+        "edition": "1st Edition",
+        "authors": [
+            "Jim Blandy",
+            " Jason Orendorff"
+        ],
+        "ISPN": "978-1-4919-2728-1",
+        "pages_count": 153,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-programming_rust_early_release.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/114\/programming-rust-pdf"
+    },
+    {
+        "book_name": "Practical Probabilistic Programming",
+        "edition": "1st Edition",
+        "authors": [
+            "Avi Pfeffer",
+            "Stuart Russell"
+        ],
+        "ISPN": "978-1-61729-233-0",
+        "pages_count": 458,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-practical_probabilistic_programming.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/115\/practical-probabilistic-programming-pdf"
+    },
+    {
+        "book_name": "Elixir in Action",
+        "edition": "1st Edition",
+        "authors": [
+            "Sasa Juric"
+        ],
+        "ISPN": "978-1-61729-201-9",
+        "pages_count": 378,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-elixir_in_action.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxWmFPd1ZtZW9lVkU"
+    },
+    {
+        "book_name": "Arduino",
+        "edition": "2nd Edition",
+        "authors": [
+            "Maik Schmidt"
+        ],
+        "ISPN": "978-1-94122-224-9",
+        "pages_count": 311,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-arduino_2nd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxQzZ3bUVvUm96TTg"
+    },
+    {
+        "book_name": "Designing Efficient BPM Applications",
+        "edition": "1st Edition",
+        "authors": [
+            "Christine McKinty",
+            "Antoine Mottier"
+        ],
+        "ISPN": "978-1-49192-471-6",
+        "pages_count": 160,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-designing_efficient_bpm_applications.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxWEY5a3dHbHhDT1E"
+    },
+    {
+        "book_name": "Unity 5.x Game AI Programming Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Jorge Palacios"
+        ],
+        "ISPN": "978-1-78355-357-0",
+        "pages_count": 278,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-unity_5.x_game_ai_programming_cookbook.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/130\/unity-5x-game-ai-programming-cookbook-pdf"
+    },
+    {
+        "book_name": "Programming ASP.NET MVC 4",
+        "edition": "1st Edition",
+        "authors": [
+            "Jess Chadwick",
+            "Todd Snyder",
+            "Hrusikesh Panda"
+        ],
+        "ISPN": "978-1-4493-2031-7",
+        "pages_count": 492,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/programming_asp.net_mvc_4.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/132\/programming-aspnet-mvc-4-pdf"
+    },
+    {
+        "book_name": "ASP.NET MVC 4 in Action",
+        "edition": "1st Edition",
+        "authors": [
+            "Jeffrey Palermo",
+            "Jimmy Bogard",
+            "Eric Hexter"
+        ],
+        "ISPN": "978-1-6172-9041-1",
+        "pages_count": 440,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/asp.net_mvc_4_in_action.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxVHpiMnlNTHZEam8"
+    },
+    {
+        "book_name": "Bootstrap for ASP.NET MVC",
+        "edition": "1st Edition",
+        "authors": [
+            "Pieter van der Westhuizen"
+        ],
+        "ISPN": "978-1-78398-728-3",
+        "pages_count": 198,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/bootstrap_for_asp.net_mvc.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxdTQ3M2JWS0hmQnc"
+    },
+    {
+        "book_name": "Database Design and Implementation",
+        "edition": "1st Edition",
+        "authors": [
+            "Howard Gould"
+        ],
+        "ISPN": "978-87-403-1046-7",
+        "pages_count": 164,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/Head-First-Java-2nd-edition.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/136\/database-design-implementation-pdf"
+    },
+    {
+        "book_name": "Head First C#",
+        "edition": "2nd Edition",
+        "authors": [
+            "Andrew Stellman",
+            " Jennifer Greene"
+        ],
+        "ISPN": "978-1-4493-8034-2",
+        "pages_count": 840,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/head_first_c_second_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxVzRUMEZNSjVXYjQ"
+    },
+    {
+        "book_name": "Head First jQuery",
+        "edition": "1st Edition",
+        "authors": [
+            "Ryan Benedetti",
+            " Ronan Cranley"
+        ],
+        "ISPN": "978-1-4493-9321-2",
+        "pages_count": 538,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/head_first_jquery.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxWjRsbmxLUGdYYU0"
+    },
+    {
+        "book_name": "Head First PMP",
+        "edition": "3rd Edition",
+        "authors": [
+            "Jennifer Greene",
+            " Andrew Stellman"
+        ],
+        "ISPN": "978-1-44936-491-5",
+        "pages_count": 892,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/head_first_pmp_3rd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxQTJUTTdxeWVXdFU"
+    },
+    {
+        "book_name": "Head First PMP",
+        "edition": "2nd Edition",
+        "authors": [
+            "Jennifer Greene",
+            " Andrew Stellman"
+        ],
+        "ISPN": "978-0-596-80191-5",
+        "pages_count": 833,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/head_first_pmp_3rd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxSzdLdG5qMlBmNDQ"
+    },
+    {
+        "book_name": "Java EE 7 Essentials",
+        "edition": "1st Edition",
+        "authors": [
+            "Arun Gupta"
+        ],
+        "ISPN": "978-1-4493-7017-6",
+        "pages_count": 362,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/java_ee_7_essentials.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/149\/java-ee-7-essentials-pdf"
+    },
+    {
+        "book_name": "Lean UX",
+        "edition": "1st Edition",
+        "authors": [
+            "Jeff Gothelf"
+        ],
+        "ISPN": "978-1-4493-1165-0",
+        "pages_count": 151,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/lean_ux.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/150\/lean-ux-pdf"
+    },
+    {
+        "book_name": "Head First SQL",
+        "edition": "1st Edition",
+        "authors": [
+            "Lynn Beighley"
+        ],
+        "ISPN": "978-0-596-52684-9",
+        "pages_count": 586,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/head_first_sql.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxVTRVRFR6WE1CMkk"
+    },
+    {
+        "book_name": "Algorithms",
+        "edition": "4th Edition",
+        "authors": [
+            "Robert Sedgewick",
+            " Kevin Wayne"
+        ],
+        "ISPN": "978-0-321-57351-3",
+        "pages_count": 969,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/algorithms_4th_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxTUJwZDFON0hWaGs"
+    },
+    {
+        "book_name": "An Introduction to the Analysis of Algorithms",
+        "edition": "2nd Edition",
+        "authors": [
+            "Robert Sedgewick",
+            " Philippe Flajolet"
+        ],
+        "ISPN": "978-0-321-90575-8",
+        "pages_count": 593,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/an_introduction_to_the_analysis_of_algorithms_2nd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxYzlXcWVIeXFFdWc"
+    },
+    {
+        "book_name": "Seven More Languages in Seven Weeks",
+        "edition": "1st Edition",
+        "authors": [
+            "Bruce Tate",
+            "Ian Dees",
+            "Jack Moffitt",
+            "Fred Daoud"
+        ],
+        "ISPN": "978-1-94122-215-7",
+        "pages_count": 312,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2014-seven_more_languages_in_seven_weeks.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/155\/seven-languages-seven-weeks-pdf"
+    },
+    {
+        "book_name": "JSON Quick Syntax Reference",
+        "edition": "1st Edition",
+        "authors": [
+            "Wallace Jackson"
+        ],
+        "ISPN": "978-1-484218-62-4",
+        "pages_count": 158,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/json_quick_syntax_reference.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/156\/json-quick-syntax-reference-pdf"
+    },
+    {
+        "book_name": "PHP 7 Quick Scripting Reference",
+        "edition": "2nd Edition",
+        "authors": [
+            "Mikael Olsson"
+        ],
+        "ISPN": "978-1-484219-21-8",
+        "pages_count": 138,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-learn_php_7.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/157\/php-7-quick-scripting-reference-2nd-edition-pdf"
+    },
+    {
+        "book_name": "Using Chef with Microsoft Azure",
+        "edition": "1st Edition",
+        "authors": [
+            "Stuart Preston"
+        ],
+        "ISPN": "978-1-484214-77-0",
+        "pages_count": 239,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/using_chef_with_microsoft_azure.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/158\/using-chef-microsoft-azure-pdf"
+    },
+    {
+        "book_name": "3D Printed Science Projects",
+        "edition": "1st Edition",
+        "authors": [
+            "Joan Horvath",
+            "Rich Cameron"
+        ],
+        "ISPN": "978-1-484213-24-7",
+        "pages_count": 213,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/3d_printed_science_projects.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxbHZmY1dJZkJYb2c"
+    },
+    {
+        "book_name": "Professional AngularJS",
+        "edition": "1st Edition",
+        "authors": [
+            "Valeri Karpov",
+            "Diego Netto"
+        ],
+        "ISPN": "978-1-118-83207-3",
+        "pages_count": 399,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/professional_angularjs.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/160\/professional-angularjs-pdf"
+    },
+    {
+        "book_name": "Professional Ajax",
+        "edition": "2nd Edition",
+        "authors": [
+            "Jeremy McPeak",
+            " Joe Fawcett",
+            " Nicholas C. Zakas"
+        ],
+        "ISPN": "978-1-4571-0715-3",
+        "pages_count": 627,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/professional_ajax_2nd_edition.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/165\/professional-ajax-2nd-edition-pdf"
+    },
+    {
+        "book_name": "Programming ASP.NET AJAX",
+        "edition": "1st Edition",
+        "authors": [
+            "Christian Wenz"
+        ],
+        "ISPN": "978-0-596-51424-2",
+        "pages_count": 475,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/programming_asp.net_ajax.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/166\/programming-aspnet-ajax-pdf"
+    },
+    {
+        "book_name": "Learning ASP.NET 3.5",
+        "edition": "2nd Edition",
+        "authors": [
+            "Brian MacDonald",
+            "Dan Hurwitz",
+            "Jesse Liberty"
+        ],
+        "ISPN": "978-0-596-51845-5",
+        "pages_count": 609,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/learning_asp.net_3.5_second_edition.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/167\/learning-aspnet-35-2nd-edition-pdf"
+    },
+    {
+        "book_name": "Adding Ajax",
+        "edition": "1st Edition",
+        "authors": [
+            "Shelley Powers"
+        ],
+        "ISPN": "978-0-596-52936-9",
+        "pages_count": 401,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/adding_ajax.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxdnNRUlc1d19WM1k"
+    },
+    {
+        "book_name": "Building a Web 2.0 Portal with ASP.NET 3.5",
+        "edition": "1st Edition",
+        "authors": [
+            "Omar AL Zabir"
+        ],
+        "ISPN": "978-0-596-51050-3",
+        "pages_count": 310,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/building_a_web_2.0_portal_with_asp.net_3.5.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxb2w5U0l0Wldqb0E"
+    },
+    {
+        "book_name": "Securing Ajax Applications",
+        "edition": "1st Edition",
+        "authors": [
+            "Christopher Wells"
+        ],
+        "ISPN": "978-0-596-52931-4",
+        "pages_count": 251,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/securing_ajax_applications.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/171\/securing-ajax-applications-pdf"
+    },
+    {
+        "book_name": "Mastering Dojo",
+        "edition": "1st Edition",
+        "authors": [
+            "Alex Russell",
+            "Craig Riecke",
+            "Rawld Gill"
+        ],
+        "ISPN": "978-1-93435-611-1",
+        "pages_count": 545,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/mastering_dojo.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/172\/mastering-dojo-pdf"
+    },
+    {
+        "book_name": "Microsoft ASP.NET and AJAX",
+        "edition": "1st Edition",
+        "authors": [
+            "Dino Esposito"
+        ],
+        "ISPN": "978-0-73562-621-8",
+        "pages_count": 352,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/microsoft_asp.net_and_ajax.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/173\/microsoft-aspnet-ajax-pdf"
+    },
+    {
+        "book_name": "Ajax For Dummies",
+        "edition": "1st Edition",
+        "authors": [
+            "Steve Holzner"
+        ],
+        "ISPN": "978-0-471-78597-2",
+        "pages_count": 382,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/ajax_for_dummies.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxX2E0MmNJcV80LXc"
+    },
+    {
+        "book_name": "React.js Essentials",
+        "edition": "1st Edition",
+        "authors": [
+            "Artemij Fedosejev"
+        ],
+        "ISPN": "978-1-78355-162-0",
+        "pages_count": 208,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-react.js_essentials.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/176\/reactjs-essentials-pdf"
+    },
+    {
+        "book_name": "Mastering Linux Shell Scripting",
+        "edition": "1st Edition",
+        "authors": [
+            "Andrew Mallett"
+        ],
+        "ISPN": "978-1-78439-697-8",
+        "pages_count": 198,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2015-mastering_linux_shell_scripting.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/177\/mastering-linux-shell-scripting-pdf"
+    },
+    {
+        "book_name": "Web Development with Django Cookbook",
+        "edition": "2nd Edition",
+        "authors": [
+            "Aidas Bendoraitis"
+        ],
+        "ISPN": "978-1-78588-677-5",
+        "pages_count": 384,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-web_development_with_django_cookbook_2nd_edition.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/178\/web-development-django-cookbook-2nd-edition-pdf"
+    },
+    {
+        "book_name": "Learning Probabilistic Graphical Models in R",
+        "edition": "1st Edition",
+        "authors": [
+            "David Bellot"
+        ],
+        "ISPN": "978-1-78439-205-5",
+        "pages_count": 250,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-learning_probabilistic_graphical_models_in_r.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxWERobkdHdmRHWXM"
+    },
+    {
+        "book_name": "Learning VMware App Volumes",
+        "edition": "1st Edition",
+        "authors": [
+            "Peter von Oven"
+        ],
+        "ISPN": "978-1-78588-438-2",
+        "pages_count": 495,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-learning_vmware_app_volumes.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/180\/learning-vmware-app-volumes-pdf"
+    },
+    {
+        "book_name": "Expert Python Programming",
+        "edition": "1st Edition",
+        "authors": [
+            "Michal Jaworski",
+            " Tarek Ziade"
+        ],
+        "ISPN": "978-1-78588-685-0",
+        "pages_count": 536,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-expert_python_programming_2nd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxcER0SmNVSWplSjQ"
+    },
+    {
+        "book_name": "Internet of Things with Python",
+        "edition": "1st Edition",
+        "authors": [
+            "Gaston C Hillar"
+        ],
+        "ISPN": "978-1-78588-138-1",
+        "pages_count": 388,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-internet_of_things_with_python.jpg",
+        "downloadLink": "http:\/\/file.allitebooks.com\/20160527\/Internet%20of%20Things%20with%20Python.pdf"
+    },
+    {
+        "book_name": "ArcGIS for JavaScript Developers by Example",
+        "edition": "1st Edition",
+        "authors": [
+            "Jayakrishnan Vijayaraghavan",
+            " Yogesh Dhanapal"
+        ],
+        "ISPN": "978-1-78588-866-3",
+        "pages_count": 287,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-arcgis_for_javascript_developers_by_example.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxR3E4YTQ3MlpJRHc"
+    },
+    {
+        "book_name": "QGIS 2 Cookbook",
+        "edition": "1st Edition",
+        "authors": [
+            "Alex Mandel",
+            "Anita Graser",
+            "Alexander Bruy"
+        ],
+        "ISPN": "978-1-78398-496-1",
+        "pages_count": 391,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-qgis_2_cookbook.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/184\/qgis-2-cookbook-pdf"
+    },
+    {
+        "book_name": "Puppet for Containerization",
+        "edition": "1st Edition",
+        "authors": [
+            "Scott Coulton"
+        ],
+        "ISPN": "978-1-78588-328-6",
+        "pages_count": 222,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/2016-puppet_for_containerization.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/185\/puppet-containerization-pdf"
+    },
+    {
+        "book_name": "SignalR Programming in Microsoft ASP.NET",
+        "edition": "1st Edition",
+        "authors": [
+            "Jose M Aguilar"
+        ],
+        "ISPN": "978-0-7356-8388-4",
+        "pages_count": 279,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/signalr_programming_in_microsoft_asp.net.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/186\/signalr-programming-microsoft-aspnet-pdf"
+    },
+    {
+        "book_name": "Programming Microsoft ASP.NET MVC",
+        "edition": "3rd Edition",
+        "authors": [
+            "Dino Esposito"
+        ],
+        "ISPN": "978-0-7356-8094-4",
+        "pages_count": 516,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/programming_microsoft_asp.net_mvc_3rd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxMlYwWFQ4MkpoLTQ"
+    },
+    {
+        "book_name": "Expert ASP.NET Web API 2 for MVC Developers",
+        "edition": "1st Edition",
+        "authors": [
+            "Adam Freeman"
+        ],
+        "ISPN": "978-1-484200-86-5",
+        "pages_count": 665,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/expert_asp.net_web_api_2_for_mvc_developers.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=1yuP-ry_AvOxQiccF52zVGrsH2eVrq7Tl"
+    },
+    {
+        "book_name": "Professional ASP.NET MVC 5",
+        "edition": "1st Edition",
+        "authors": [
+            "Jon Galloway",
+            "Brad Wilson",
+            "Scott Allen",
+            "David Matson"
+        ],
+        "ISPN": "978-1-11879-475-3",
+        "pages_count": 620,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/professional_asp.net_mvc_5.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/189\/professional-aspnet-mvc-5-pdf"
+    },
+    {
+        "book_name": "Pro ASP.NET SignalR",
+        "edition": "1st Edition",
+        "authors": [
+            "Keyvan Nayyeri",
+            "Darren White"
+        ],
+        "ISPN": "978-1-4302-6319-7",
+        "pages_count": 347,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/pro_asp.net_signalr.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/190\/pro-aspnet-signalr-pdf"
+    },
+    {
+        "book_name": "ASP.NET MVC 5 with Bootstrap and Knockout.js",
+        "edition": "1st Edition",
+        "authors": [
+            "Jamie Munro"
+        ],
+        "ISPN": "978-1-49191-439-7",
+        "pages_count": 277,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/asp.net_mvc_5_with_bootstrap_and_knockout.js.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxclNybmQ4V1BiVzQ"
+    },
+    {
+        "book_name": "ASP.NET jQuery Cookbook",
+        "edition": "2nd Edition",
+        "authors": [
+            "Sonal Aneel Allana"
+        ],
+        "ISPN": "978-1-78217-311-3",
+        "pages_count": 478,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/asp.net_jquery_cookbook_2nd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxZ2RycXlrVE9oWHc"
+    },
+    {
+        "book_name": "Beginning SOLID Principles and Design Patterns for ASP.NET Developers",
+        "edition": "1st Edition",
+        "authors": [
+            "Bipin Joshi"
+        ],
+        "ISPN": "978-1-484218-47-1",
+        "pages_count": 415,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/beginning_solid_principles_and_design_patterns_for_asp.net_developers.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxckRPMWg0RmM0c00"
+    },
+    {
+        "book_name": "ASP.NET MVC 4 Recipes",
+        "edition": "1st Edition",
+        "authors": [
+            "John Ciliberti"
+        ],
+        "ISPN": "978-1-4302-4773-9",
+        "pages_count": 619,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/asp.net_mvc_4_recipes.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxalhiYk5lZ28zakE"
+    },
+    {
+        "book_name": "Beginning ASP.NET 4.5 Databases",
+        "edition": "3rd Edition",
+        "authors": [
+            "Sandeep Chanda",
+            "Damien Foggon"
+        ],
+        "ISPN": "978-1-4302-4380-9",
+        "pages_count": 267,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/beginning_asp.net_4.5_databases_3rd_edition.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxQkprOTNfWERTd1k"
+    },
+    {
+        "book_name": "Pro ASP.NET Web API Security",
+        "edition": "1st Edition",
+        "authors": [
+            "Badrinarayanan Lakshmiraghavan"
+        ],
+        "ISPN": "978-1-4302-5782-0",
+        "pages_count": 403,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/pro_asp.net_web_api_security.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/196\/pro-aspnet-web-api-security-pdf"
+    },
+    {
+        "book_name": "Professional ASP.NET 4.5 in C# and VB",
+        "edition": "1st Edition",
+        "authors": [
+            "Jason N Gaylord",
+            "Christian Wenz",
+            "Pranav Rastogi",
+            "Todd Miranda",
+            "Scott Hanselman"
+        ],
+        "ISPN": "978-1-118-31182-0",
+        "pages_count": 1444,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/professional_asp.net_4.5_in_c_and_vb.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/197\/professional-aspnet-45-c-vb-pdf"
+    },
+    {
+        "book_name": "Windows Azure and ASP.NET MVC Migration",
+        "edition": "1st Edition",
+        "authors": [
+            "Benjamin Perkins"
+        ],
+        "ISPN": "978-1-118-67858-9",
+        "pages_count": 264,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/windows_azure_and_asp.net_mvc_migration.jpg",
+        "downloadLink": "\/Book\/DownloadFile\/198\/windows-azure-aspnet-mvc-migration-pdf"
+    },
+    {
+        "book_name": "Beginning ASP.NET MVC 4",
+        "edition": "1st Edition",
+        "authors": [
+            "Jose Guay Paz"
+        ],
+        "ISPN": "978-1-4302-5752-3",
+        "pages_count": 292,
+        "imageLink": "https:\/\/smtebooks.com\/Images\/beginning_asp.net_mvc_4.jpg",
+        "downloadLink": "https:\/\/drive.google.com\/uc?export=download&id=0B4hhbFaItiPxQmVuT29ZZWNKcUE"
+    }
+]
